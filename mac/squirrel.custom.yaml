@@ -1,0 +1,8 @@
+patch:
+    style/horizontal: true
+    style/inline_preedit: true
+    style/font_point: 16          # 字號
+    style/corner_radius: 10       # 窗口圓角半徑
+    style/border_height: 0        # 窗口邊界高度，大於圓角半徑才有效果
+    style/border_width: 0         # 窗口邊界寬度，大於圓角半徑才有效果
+    style/color_scheme: mojave_dark    # 選擇配色方案

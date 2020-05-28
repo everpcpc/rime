@@ -1,0 +1,29 @@
+patch:
+  schema/dependencies:
+    - easy_en
+  translator:
+    dictionary: pinyin_simp.extended
+    comment_format:
+      - xform/~.*//
+  english:
+    dictionary: easy_en
+    spelling_hints: 3
+    enable_completion: true # 是否启用英文输入联想补全
+    enable_sentence: false
+    initial_quality: -1 # 调整英文候选词的位置，如 -3 会更靠后
+    comment_format:
+      - xform/~.*//
+  custom_phrase:
+    db_class: stabledb
+    dictionary: ""
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 1
+    user_dict: custom_phrase
+  engine/translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+    - table_translator@custom_phrase
+    - table_translator@english
+    - table_translator

@@ -1,0 +1,43 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed May 27 08:44:46 2020"
+  rime_version: 1.5.3
+patch:
+  style/font_face: 微软雅黑 
+  style/color_scheme: mine
+  style/horizontal: true
+  style/inline_preedit: true
+  style/layout/border_width: 1
+  style/layout/candidate_spacing: 12
+  style/layout/margin_x: 8
+  style/layout/margin_y: 8
+  style/layout/round_corner: 0
+  style/layout/hilite_padding: 8
+  style/layout/hilite_spacing: 3
+  style/font_point: 14
+
+  preset_color_schemes/mine:
+    name: Mine
+    author: me
+    back_color: 0xEDEDED #候选框 背景色
+    border_color: 0xEDEDED #候选框 边框颜色
+    text_color: 0x000000 #已选择字 文字颜色
+    hilited_text_color: 0xFF0008 #已选择字右侧拼音 文字颜色
+    hilited_back_color: 0xEDEDED #已选择字右侧拼音 背景色
+    hilited_candidate_text_color: 0x000000 #候选字颜色
+    hilited_candidate_back_color: 0xFDD5B4 #候选字背景色
+    candidate_text_color: 0x545454 #未候选字颜色
+
+  preset_color_schemes/win10:
+    name: Windows10
+    author: me
+    text_color: 0x000000             # 編碼行文字顏色，24位色值，用十六進制書寫方便些，順序是藍綠紅0xBBGGRR
+    candidate_text_color: 0x000000   # 候選項文字顏色，當與文字顏色不同時指定
+    back_color: 0xFFFFFF             # 底色
+    border_color: 0x7E7969           # 邊框顏色，與底色相同則爲無邊框的效果
+    hilited_text_color: 0xFFFFFF     # 高亮文字，即與當前高亮候選對應的那部份輸入碼
+    hilited_back_color: 0x7E7969     # 設定高亮文字的底色，可起到凸顯高亮部份的作用
+    hilited_candidate_text_color: 0xFFFFFF  # 高亮候選項的文字顏色，要醒目！
+    hilited_candidate_back_color: 0x7E7969  # 高亮候選項的底色，若與背景色不同就會顯出光棒
