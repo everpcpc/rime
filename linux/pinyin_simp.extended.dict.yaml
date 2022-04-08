@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+#
+
+---
+name: pinyin_simp.extended
+version: "2019.02.02"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - pinyin_simp
+  - luna_pinyin.xiandaihanyuchangyongcibiao
+  - luna_pinyin.chengyusuyu
+  - luna_pinyin.emoji.cldr
+  - pinyin.ff14
+  - pinyin.physics
+  - pinyin.math

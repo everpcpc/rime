@@ -1,0 +1,2738 @@
+# Rime dictionary
+# encoding: utf-8
+# Source: https://pinyin.sogou.com/dict/detail/index/101752
+
+---
+name: pinyin_ff14
+version: "0.1"
+sort: by_weight
+...
+
+阿巴拉提亚公鱼	a ba la ti ya gong yu	1
+阿巴拉提亚槲寄生	a ba la ti ya hu ji sheng	1
+阿巴拉提亚龙头	a ba la ti ya long tou	1
+阿巴拉提亚岩盐	a ba la ti ya yan yan	1
+阿巴拉提亚云海	a ba la ti ya yun hai	1
+阿尔法管区	a er fa guan qu	1
+阿尔法之羽	a er fa zhi yu	1
+阿尔基克薰衣草	a er ji ke xun yi cao	1
+阿尔提克	a er ti ke	1
+阿格里帕	a ge li pa	1
+阿济兹拉旗舰岛	a ji zi la qi jian dao	1
+阿伽托斯	a jia tuo si	1
+阿拉米格芥子	a la mi ge jie zi	1
+阿拉米格绢布	a la mi ge juan bu	1
+阿拉米格纤维	a la mi ge xian wei	1
+阿拉米格盐	a la mi ge yan	1
+阿列刻特利昂	a lie ke te li ang	1
+阿难陀族	a nan tuo zu	1
+阿苏黄	a su huang	1
+阿托莫斯的肉片	a tuo mo si de rou pian	1
+阿瓦隆尼亚古陆	a wa long ni ya gu lu	1
+阿泽玛玫瑰	a ze ma mei gui	1
+艾蒿	ai hao	1
+艾蒿烤鲤鱼	ai hao kao li yu	1
+爱心白巧克力	ai xin bai qiao ke li	1
+爱心巧克力	ai xin qiao ke li	1
+暗兵鳢	an bing li	1
+暗斗鱼	an dou yu	1
+安菲瑟龙的粗皮	an fei se long de cu pi	1
+安菲瑟龙革	an fei se long ge	1
+安迦达	an jia da	1
+暗盔魔蟹	an kui mo xie	1
+暗栗木木材	an li mu mu cai	1
+暗骑士	an qi shi	1
+暗塘鳢	an tang li	1
+暗物质晶簇	an wu zhi jing cu	1
+暗星	an xing	1
+昂萨哈凯尔	ang sa ha kai er	1
+肮脏的古布料	ang zang de gu bu liao	1
+肮脏鲱	ang zang fei	1
+奥德赛	ao de sai	1
+奥丁披风	ao ding pi feng	1
+奥弗杰恩	ao fu jie en	1
+奥猴棕	ao hou zong	1
+奥迦斯	ao jia si	1
+奥罗尼部的布料	ao luo ni bu de bu liao	1
+奥萨德梅	ao sa de mei	1
+奥修昂火炬	ao xiu ang huo ju	1
+奥祖鲁姆	ao zu lu mu	1
+钯金锭	ba jin ding	1
+钯金附魔墨水	ba jin fu mo mo shui	1
+钯金块	ba jin kuai	1
+钯金矿	ba jin kuang	1
+巴拉乌尔	ba la wu er	1
+八面硼砂	ba mian peng sha	1
+白彩鱼	bai cai yu	1
+白滴糖	bai di tang	1
+白垩	bai e	1
+白钢板	bai gang ban	1
+白钢钉	bai gang ding	1
+白钢锭	bai gang ding	1
+白钢环	bai gang huan	1
+白钢连接板	bai gang lian jie ban	1
+白钢铆钉	bai gang mao ding	1
+白钢鲨	bai gang sha	1
+白钢折叶	bai gang zhe ye	1
+白光灵砂	bai guang ling sha	1
+白鬼鼠王	bai gui shu wang	1
+白鬼岩山	bai gui yan shan	1
+白虎鬃毛	bai hu zong mao	1
+白金锭	bai jin ding	1
+白金附魔墨水	bai jin fu mo mo shui	1
+白金块	bai jin kuai	1
+白金矿	bai jin kuang	1
+白金鱼	bai jin yu	1
+百里香	bai li xiang	1
+白丽鱼	bai li yu	1
+白萝卜	bai luo bo	1
+白魔	bai mo	1
+百目螈	bai mu yuan	1
+白珊瑚	bai shan hu	1
+百兽之血	bai shou zhi xue	1
+白松露	bai song lu	1
+白钛锭	bai tai ding	1
+白钛块	bai tai kuai	1
+白钛铆钉	bai tai mao ding	1
+白铜锭	bai tong ding	1
+白铜附魔墨水	bai tong fu mo mo shui	1
+白铜块	bai tong kuai	1
+白钨矿	bai wu kuang	1
+白银板	bai yin ban	1
+白银锭	bai yin ding	1
+白银附魔墨水	bai yin fu mo mo shui	1
+白银环	bai yin huan	1
+白银集市	bai yin ji shi	1
+白银铆钉	bai yin mao ding	1
+白银水路	bai yin shui lu	1
+白银乡	bai yin xiang	1
+白鱼汤	bai yu tang	1
+白云花	bai yun hua	1
+白云母磨刀石	bai yun mu mo dao shi	1
+白云珊瑚	bai yun shan hu	1
+白云崖	bai yun ya	1
+白泽的火之眼	bai ze de huo zhi yan	1
+白泽的金之眼	bai ze de jin zhi yan	1
+白泽的木之眼	bai ze de mu zhi yan	1
+白泽的水之眼	bai ze de shui zhi yan	1
+白泽的土之眼	bai ze de tu zhi yan	1
+白泽的五行眼	bai ze de wu xing yan	1
+白章鱼	bai zhang yu	1
+白珍珠	bai zhen zhu	1
+白鬃毛	bai zong mao	1
+斑铜矿	ban tong kuang	1
+斑纹虾虎	ban wen xia hu	1
+半熊的粗皮	ban xiong de cu pi	1
+半熊革	ban xiong ge	1
+板岩磨刀石	ban yan mo dao shi	1
+暴风雨云	bao feng yu yun	1
+宝石水母	bao shi shui mu	1
+包心甘蓝	bao xin gan lan	1
+包心卡贝基	bao xin ka bei ji	1
+包心球蓟	bao xin qiu ji	1
+暴雪	bao xue	1
+暴雨	bao yu	1
+宝座水晶块	bao zuo shui jing kuai	1
+贝拉哈迪亚玻璃	bei la ha di ya bo li	1
+贝拉哈迪亚银片	bei la ha di ya yin pian	1
+北萨纳兰	bei sa na lan	1
+贝塔管区	bei ta guan qu	1
+悲叹飞泉	bei tan fei quan	1
+蓓天翼龙革	bei tian yi long ge	1
+贝希摩斯的毛皮	bei xi mo si de mao pi	1
+贝希摩斯之角	bei xi mo si zhi jiao	1
+北鲜血滨	bei xian xue bin	1
+比阿纳可大帝	bi a na ke da di	1
+碧空	bi kong	1
+碧蓝附魔墨水	bi lan fu mo mo shui	1
+碧蓝高位附魔墨水	bi lan gao wei fu mo mo shui	1
+碧企鹅蛋	bi qi e dan	1
+碧企鹅蛋卷	bi qi e dan juan	1
+碧企鹅绵毛	bi qi e mian mao	1
+俾斯麦鸡蛋三明治	bi si mai ji dan san ming zhi	1
+俾斯麦魔角	bi si mai mo jiao	1
+俾斯麦之角	bi si mai zhi jiao	1
+碧玺	bi xi	1
+笔直的枯茎	bi zhi de ku jing	1
+蝙蝠的翅膀	bian fu de chi bang	1
+蝙蝠牙	bian fu ya	1
+扁平的	bian ping de	1
+扁桃	bian tao	1
+扁桃仁牛角面包	bian tao ren niu jiao mian bao	1
+冰川核	bing chuan he	1
+冰光砾	bing guang li	1
+冰光石	bing guang shi	1
+冰河水晶	bing he shui jing	1
+冰砂砾	bing sha li	1
+冰神鱼	bing shen yu	1
+兵团徽章	bing tuan hui zhang	1
+冰眼石	bing yan shi	1
+冰战神	bing zhan shen	1
+冰之晶簇	bing zhi jing cu	1
+冰之水晶	bing zhi shui jing	1
+冰之巫女	bing zhi wu nv	1
+菠菜乳蛋饼	bo cai ru dan bing	1
+薄荷酸奶昔	bo he suan nai xi	1
+玻璃板	bo li ban	1
+玻璃纤维	bo li xian wei	1
+菠萝蛋糕	bo luo dan gao	1
+菠萝汁	bo luo zhi	1
+波太郎	bo tai lang	1
+薄雾	bo wu	1
+卜传	bu chuan	1
+不定鱼	bu ding yu	1
+不光滑的粗皮	bu guang hua de cu pi	1
+不悔战泉	bu hui zhan quan	1
+不洁古像	bu jie gu xiang	1
+布卡卜	bu ka bu	1
+布拉巨猿	bu la ju yuan	1
+布隆特斯	bu long te si	1
+布涅	bu nie	1
+不死鸟之尾	bu si niao zhi wei	1
+捕鱼人	bu yu ren	1
+捕鱼人之识	bu yu ren zhi shi	1
+菜包肉	cai bao rou	1
+裁定鱼	cai ding yu	1
+彩虹勺形鱼饵	cai hong shao xing yu er	1
+采矿工	cai kuang gong	1
+裁衣匠行会	cai yi jiang hang hui	1
+残暴水蛭	can bao shui zhi	1
+蚕茧	can jian	1
+蚕蛹	can yong	1
+苍白灰	cang bai hui	1
+苍白骑士	cang bai qi shi	1
+苍穹蛋奶酒	cang qiong dan nai jiu	1
+苍穹鸡蛋	cang qiong ji dan	1
+苍穹鸡蛋汤	cang qiong ji dan tang	1
+苍穹坚果	cang qiong jian guo	1
+苍天石	cang tian shi	1
+苍天石英	cang tian shi ying	1
+苍天石原石	cang tian shi yuan shi	1
+草布	cao bu	1
+草场	cao chang	1
+草菇	cao gu	1
+草菇甘蓝卷	cao gu gan lan juan	1
+草线	cao xian	1
+草刈家	cao yi jia	1
+草鱼	cao yu	1
+草原哔叽	cao yuan bi ji	1
+草原的宝玉	cao yuan de bao yu	1
+草原的蚕豆	cao yuan de can dou	1
+草原的茶叶	cao yuan de cha ye	1
+草原的成熟果实	cao yuan de cheng shu guo shi	1
+草原的翡翠	cao yuan de fei cui	1
+草原的根菜	cao yuan de gen cai	1
+草原的果菜	cao yuan de guo cai	1
+草原的果实	cao yuan de guo shi	1
+草原的黑曜石	cao yuan de hei yao shi	1
+草原的红花	cao yuan de hong hua	1
+草原的花蕾	cao yuan de hua lei	1
+草原的辉石	cao yuan de hui shi	1
+草原的枯枝	cao yuan de ku zhi	1
+草原的马草	cao yuan de ma cao	1
+草原的磨刀石	cao yuan de mo dao shi	1
+草原的牧草	cao yuan de mu cao	1
+草原的泥岩磨刀石	cao yuan de ni yan mo dao shi	1
+草原的黏土	cao yuan de nian tu	1
+草原的蒲公英	cao yuan de pu gong ying	1
+草原的石炭	cao yuan de shi tan	1
+草原的藤材	cao yuan de teng cai	1
+草原的藤蔓	cao yuan de teng wan	1
+草原的天然水	cao yuan de tian ran shui	1
+草原的铁矿	cao yuan de tie kuang	1
+草原的铜矿	cao yuan de tong kuang	1
+草原的钨矿	cao yuan de wu kuang	1
+草原的香草	cao yuan de xiang cao	1
+草原的岩盐	cao yuan de yan yan	1
+草原的洋葱	cao yuan de yang cong	1
+草原的野菜	cao yuan de ye cai	1
+草原的优质岩盐	cao yuan de you zhi yan yan	1
+草原的云母	cao yuan de yun mu	1
+草原的朱砂	cao yuan de zhu sha	1
+草原奶茶	cao yuan nai cha	1
+草原牛奶	cao yuan niu nai	1
+嘈杂川	cao za chuan	1
+梣木板材	cen mu ban cai	1
+梣木木材	cen mu mu cai	1
+茶饼	cha bing	1
+叉舌鱼	cha she yu	1
+柴堆村	chai dui cun	1
+常辉钢锭	chang hui gang ding	1
+常辉矿	chang hui kuang	1
+长颈骆姜	chang jing luo jiang	1
+长颈骆焗菜	chang jing luo ju cai	1
+长颈骆肉	chang jing luo rou	1
+长颈骆肉干	chang jing luo rou gan	1
+长颈驼的粗皮	chang jing tuo de cu pi	1
+长颈驼的唾液	chang jing tuo de tuo ye	1
+长颈驼革	chang jing tuo ge	1
+长颈驼肉	chang jing tuo rou	1
+常绿的树枝	chang lv de shu zhi	1
+长须豹的粗皮	chang xu bao de cu pi	1
+长须豹女王的枝角	chang xu bao nv wang de zhi jiao	1
+长须豹裘皮	chang xu bao qiu pi	1
+长须豹肉	chang xu bao rou	1
+长须鲶鱼	chang xu nian yu	1
+常影区	chang ying qu	1
+潮虫	chao chong	1
+超级恢复药	chao ji hui fu yao	1
+超级以太药	chao ji yi tai yao	1
+朝圣泥鱼	chao sheng ni yu	1
+炒跳蜥蛋	chao tiao xi dan	1
+超星际通信塔	chao xing ji tong xin ta	1
+超硬加隆德钢	chao ying jia long de gang	1
+彻悟岩窟	che wu yan ku	1
+彻悟岩窟西	che wu yan ku xi	1
+晨草之吻	chen cao zhi wen	1
+沉川鲑	chen chuan gui	1
+沉积岩磨刀石	chen ji yan mo dao shi	1
+沉默毒药	chen mo du yao	1
+沉默剧毒药	chen mo ju du yao	1
+沉默猛毒药	chen mo meng du yao	1
+沉溺射手	chen ni she shou	1
+晨曦沙金	chen xi sha jin	1
+橙彩鱼	cheng cai yu	1
+城下码头	cheng xia ma tou	1
+橙汁	cheng zhi	1
+赤虫	chi chong	1
+赤麻布	chi ma bu	1
+赤麻线	chi ma xian	1
+赤魔	chi mo	1
+赤目沙铁	chi mu sha tie	1
+赤铁矿	chi tie kuang	1
+赤铜矿	chi tong kuang	1
+赤玉土	chi yu tu	1
+重合金锭	chong he jin ding	1
+抽须王	chou xu wang	1
+除虫菊粉末	chu chong ju fen mo	1
+除臭明矾	chu chou ming fan	1
+触发	chu fa	1
+船舶墓场	chuan bo mu chang	1
+传承	chuan cheng	1
+传说采集地点	chuan shuo cai ji di dian	1
+船幽灵	chuan you ling	1
+船长圣杯	chuan zhang sheng bei	1
+创世	chuang shi	1
+垂暮蝲蛄	chui mu la gu	1
+纯白的硅沙	chun bai de gui sha	1
+春不知	chun bu zhi	1
+纯净棱晶	chun jing leng jing	1
+纯净水	chun jing shui	1
+纯秘银矿	chun mi yin kuang	1
+刺草鬃毛	ci cao zong mao	1
+刺球爆弹怪的刺	ci qiu bao dan guai de ci	1
+刺绣线	ci xiu xian	1
+刺鱼教父	ci yu jiao fu	1
+丛林鲶鱼	cong lin nian yu	1
+从天而降的送货人	cong tian er jiang de song huo ren	1
+醋栗紫	cu li zi	1
+翠绿附魔墨水	cui lv fu mo mo shui	1
+翠绿高位附魔墨水	cui lv gao wei fu mo mo shui	1
+翠绿石英	cui lv shi ying	1
+翠银锭	cui yin ding	1
+翠银附魔墨水	cui yin fu mo mo shui	1
+翠银块	cui yin kuai	1
+大草原香辛料	da cao yuan xiang xin liao	1
+大袋鼠的粗皮	da dai shu de cu pi	1
+大袋鼠革	da dai shu ge	1
+大胆甄别	da dan zhen bie	1
+大地红票	da di hong piao	1
+大地黄票	da di huang piao	1
+大地灵砂	da di ling sha	1
+大豆	da dou	1
+大钝甲鱼	da dun jia yu	1
+大海灵砂	da hai ling sha	1
+大海蛇	da hai she	1
+大祭司鱼	da ji si yu	1
+大脚雪人居所	da jiao xue ren ju suo	1
+大脚雪人之牙	da jiao xue ren zhi ya	1
+大口花的卷须	da kou hua de juan xu	1
+打雷	da lei	1
+大泷太郎	da long tai lang	1
+大马士革织物	da ma shi ge zhi wu	1
+大漆	da qi	1
+大蛇鳗	da she man	1
+大树灵砂	da shu ling sha	1
+大蒜	da suan	1
+大太	da tai	1
+大天竺鱼	da tian zhu yu	1
+大炎兽核心	da yan shou he xin	1
+大愿贝	da yuan bei	1
+玳瑁	dai mao	1
+蛋白石	dan bai shi	1
+单环刺螠	dan huan ci yi	1
+蛋黄酱	dan huang jiang	1
+蛋壳磨刀石	dan ke mo dao shi	1
+淡水	dan shui	1
+挡风巨岩	dang feng ju yan	1
+盗龙的粗皮	dao long de cu pi	1
+盗龙革	dao long ge	1
+盗龙钩爪	dao long gou zhao	1
+盗龙筋腱	dao long jin jian	1
+盗龙蓝	dao long lan	1
+盗龙腿肉	dao long tui rou	1
+盗龙熏肉	dao long xun rou	1
+刀片跳鱼	dao pian tiao yu	1
+道士布	dao shi bu	1
+倒仰鲶鱼	dao yang nian yu	1
+德尔塔管区	de er ta guan qu	1
+瞪羚的粗皮	deng ling de cu pi	1
+瞪羚革	deng ling ge	1
+瞪羚角	deng ling jiao	1
+登天路溪谷	deng tian lu xi gu	1
+低地葡萄	di di pu tao	1
+帝国河畔堡	di guo he pan bao	1
+帝国制强化纤维	di guo zhi qiang hua xian wei	1
+帝国制轻板	di guo zhi qing ban	1
+帝国制轻片	di guo zhi qing pian	1
+帝国制橡胶材	di guo zhi xiang jiao cai	1
+地懒的粗皮	di lan de cu pi	1
+地懒革	di lan ge	1
+地灵族	di ling zu	1
+地神绿	di shen lv	1
+帝王紫	di wang zi	1
+低语河谷	di yu he gu	1
+地狱犬的粗皮	di yu quan de cu pi	1
+地狱犬之牙	di yu quan zhi ya	1
+靛青蓝	dian qing lan	1
+调查队冰洞	diao cha dui bing dong	1
+雕塑家	diao su jia	1
+顶级恢复药	ding ji hui fu yao	1
+顶级以太药	ding ji yi tai yao	1
+丁香花	ding xiang hua	1
+丁香油	ding xiang you	1
+丁香紫	ding xiang zi	1
+东方刺鱼	dong fang ci yu	1
+东方眼目	dong fang yan mu	1
+东节鱼翅汤	dong jie yu chi tang	1
+东境混交林	dong jing hun jiao lin	1
+东拉诺西亚	dong la nuo xi ya	1
+东萨纳兰	dong sa na lan	1
+冻雾鸡尾酒	dong wu ji wei jiu	1
+东永恒川	dong yong heng chuan	1
+东洲蓝	dong zhou lan	1
+豆腐煎饼	dou fu jian bing	1
+豆腐味噌汁	dou fu wei ceng zhi	1
+斗鱼	dou yu	1
+渡渡鸟雏肉	du du niao chu rou	1
+渡渡鸟蛋	du du niao dan	1
+渡渡鸟蛋煎蛋卷	du du niao dan jian dan juan	1
+渡渡鸟烤肉	du du niao kao rou	1
+渡渡鸟填料	du du niao tian liao	1
+渡渡鸟胸肉	du du niao xiong rou	1
+渡渡鸟之羽	du du niao zhi yu	1
+杜父鱼	du fu yu	1
+赌命河豚	du ming he tun	1
+毒蜥蜴的粗皮	du xi yi de cu pi	1
+毒蜥蜴革	du xi yi ge	1
+毒性菇	du xing gu	1
+断指龙虾	duan zhi long xia	1
+对龙城塞的木材	dui long cheng sai de mu cai	1
+对偶处刑台	dui ou chu xing tai	1
+炖鮟鱇	dun an kang	1
+炖点	dun dian	1
+炖番茄	dun fan qie	1
+炖河鲷	dun he diao	1
+炖黄尾鰤鱼头	dun huang wei shi yu tou	1
+炖猪肉	dun zhu rou	1
+多刺菠萝	duo ci bo luo	1
+多刺菠萝种子	duo ci bo luo zhong zi	1
+多玛	duo ma	1
+多玛茶	duo ma cha	1
+多玛城前	duo ma cheng qian	1
+多玛的黎明	duo ma de li ming	1
+多玛芒草苗	duo ma mang cao miao	1
+多玛茄子	duo ma qie zi	1
+多鳍鱼	duo qi yu	1
+多实玉米	duo shi yu mi	1
+朵塔儿部的布料	duo ta er bu de bu liao	1
+夺心魔	duo xin mo	1
+恶臭狂花	e chou kuang hua	1
+鳄龟	e gui	1
+俄刻阿尼斯蛋	e ke a ni si dan	1
+俄刻阿尼斯肉	e ke a ni si rou	1
+俄刻阿尼斯炸肉排	e ke a ni si zha rou pai	1
+鳄梨	e li	1
+鳄梨色拉	e li se la	1
+噩梦之种	e meng zhi zhong	1
+恶魔蠕虫	e mo ru chong	1
+蛾蛹	e yong	1
+恩登德奇	en deng de qi	1
+恩克拉多斯	en ke la duo si	1
+二分石沿岸地	er fen shi yan an di	1
+饵食台地	er shi tai di	1
+法典	fa dian	1
+发酵黄油	fa jiao huang you	1
+法兰绒	fa lan rong	1
+翻舵手	fan duo shou	1
+泛光晶体	fan guang jing ti	1
+番茄炖蛋	fan qie dun dan	1
+番茄酱	fan qie jiang	1
+番茄派	fan qie pai	1
+番茄汁	fan qie zhi	1
+矾土晶粒	fan tu jing li	1
+翻云雾海	fan yun wu hai	1
+翻云雾海红辣椒	fan yun wu hai hong la jiao	1
+防波堤	fang bo di	1
+防水棉布	fang shui mian bu	1
+芳香蝾螈	fang xiang rong yuan	1
+翡翠豆	fei cui dou	1
+翡翠豆汤	fei cui dou tang	1
+翡翠湖滨	fei cui hu bin	1
+翡翠软玉	fei cui ruan yu	1
+翡翠硬玉	fei cui ying yu	1
+绯红树汁	fei hong shu zhi	1
+菲兰德的遗火	fei lan de de yi huo	1
+飞灵	fei ling	1
+飞龙的粗皮	fei long de cu pi	1
+飞龙革	fei long ge	1
+飞猫杀手	fei mao sha shou	1
+榧木木材	fei mu mu cai	1
+榧木原木	fei mu yuan mu	1
+肥蚯蚓	fei qiu yin	1
+飞沙鱼	fei sha yu	1
+沸石	fei shi	1
+榧树枝	fei shu zhi	1
+废液池	fei ye chi	1
+肺鱼	fei yu	1
+鲱鱼丸子	fei yu wan zi	1
+粉红胡椒	fen hong hu jiao	1
+粉砂岩磨刀石	fen sha yan mo dao shi	1
+风暴核	feng bao he	1
+风暴蓝	feng bao lan	1
+风暴血骑士	feng bao xue qi shi	1
+风茶叶	feng cha ye	1
+风光砾	feng guang li	1
+风光石	feng guang shi	1
+风绢	feng juan	1
+蜂蜡	feng la	1
+蜂蜜	feng mi	1
+蜂蜜黄	feng mi huang	1
+蜂蜜松饼	feng mi song bing	1
+蜂蜜圆面包	feng mi yuan mian bao	1
+枫木板材	feng mu ban cai	1
+枫木木材	feng mu mu cai	1
+蜂鸟粉	feng niao fen	1
+丰饶灵砂	feng rao ling sha	1
+丰饶神井	feng rao shen jing	1
+风砂砾	feng sha li	1
+风尚布	feng shang bu	1
+风尚鞣革	feng shang rou ge	1
+枫糖	feng tang	1
+枫糖浆	feng tang jiang	1
+风味拌细面	feng wei ban xi mian	1
+风眼石	feng yan shi	1
+风之晶簇	feng zhi jing cu	1
+风之水晶	feng zhi shui jing	1
+浮岛泉水	fu dao quan shui	1
+浮岛陶石	fu dao tao shi	1
+福尔唐伯爵府	fu er tang bo jue fu	1
+复合亮片	fu he liang pian	1
+弗克施泰因	fu ke shi tai yin	1
+浮木鱼	fu mu yu	1
+弗内乌斯	fu nei wu si	1
+芙蓉蟹	fu rong xie	1
+浮石	fu shi	1
+浮士德装甲板	fu shi de zhuang jia ban	1
+腐尸蓝	fu shi lan	1
+浮游虫	fu you chong	1
+浮游石	fu you shi	1
+腐鱼	fu yu	1
+伽马	ga ma	1
+嘎牙子	ga ya zi	1
+盖得	gai de	1
+绀碧石英	gan bi shi ying	1
+干草	gan cao	1
+甘菊茶	gan ju cha	1
+橄榄	gan lan	1
+橄榄绿	gan lan lv	1
+橄榄石	gan lan shi	1
+橄榄油	gan lan you	1
+甘露蜜	gan lu mi	1
+干燥以太药	gan zao yi tai yao	1
+刚德瑞瓦	gang de rui wa	1
+刚力之灵药	gang li zhi ling yao	1
+刚力之龙药	gang li zhi long yao	1
+刚力之秘药	gang li zhi mi yao	1
+刚力之妙药	gang li zhi miao yao	1
+刚力之强化仙药	gang li zhi qiang hua xian yao	1
+刚力之仙药	gang li zhi xian yao	1
+刚力之药	gang li zhi yao	1
+刚力之药汤	gang li zhi yao tang	1
+高岸	gao an	1
+高纯度焦炭	gao chun du jiao tan	1
+高刺鱼	gao ci yu	1
+高地干面	gao di gan mian	1
+高地小麦	gao di xiao mai	1
+高地小麦粉	gao di xiao mai fen	1
+高风水母	gao feng shui mu	1
+高级黑衣香木	gao ji hei yi xiang mu	1
+高级恢复药	gao ji hui fu yao	1
+高级料酒	gao ji liao jiu	1
+高级强心剂	gao ji qiang xin ji	1
+高级圣灵药	gao ji sheng ling yao	1
+高级以太药	gao ji yi tai yao	1
+高级银丝织锦	gao ji yin si zhi jin	1
+高脚孤丘	gao jiao gu qiu	1
+高径	gao jing	1
+高精度玫瑰金齿轮	gao jing du mei gui jin chi lun	1
+高精度玄钢钩	gao jing du xuan gang gou	1
+高山萝卜	gao shan luo bo	1
+高山萝卜沙拉	gao shan luo bo sha la	1
+高声鲶鱼	gao sheng nian yu	1
+锆石	gao shi	1
+高天鱼	gao tian yu	1
+高位附魔墨水	gao wei fu mo mo shui	1
+高原芹	gao yuan qin	1
+高原小麦	gao yuan xiao mai	1
+高原小麦粉	gao yuan xiao mai fen	1
+高质的安定粉	gao zhi de an ding fen	1
+高质的古布料	gao zhi de gu bu liao	1
+高质的木柴	gao zhi de mu chai	1
+高质的羊皮纸	gao zhi de yang pi zhi	1
+葛布	ge bu	1
+哥布林	ge bu lin	1
+哥布林钓钩	ge bu lin diao gou	1
+哥布林鲈	ge bu lin lu	1
+哥布林喷漆	ge bu lin pen qi	1
+哥布林树脂	ge bu lin shu zhi	1
+哥布林血流	ge bu lin xue liu	1
+哥布亚油酸	ge bu ya you suan	1
+戈尔德马尔的角	ge er de ma er de jiao	1
+葛根	ge gen	1
+格里达尼亚	ge li da ni ya	1
+格里达尼亚旧街	ge li da ni ya jiu jie	1
+格里达尼亚新街	ge li da ni ya xin jie	1
+铬铁锭	ge tie ding	1
+铬铁矿	ge tie kuang	1
+葛线	ge xian	1
+歌咏裂谷	ge yong lie gu	1
+歌咏裂谷北部	ge yong lie gu bei bu	1
+根菜沙拉	gen cai sha la	1
+弓角	gong jiao	1
+公主布丁	gong zhu bu ding	1
+公主青鳉	gong zhu qing jiang	1
+沟鼠的粗皮	gou shu de cu pi	1
+沟鼠尾巴	gou shu wei ba	1
+古代附魔墨水	gu dai fu mo mo shui	1
+古代野兽的化石片	gu dai ye shou de hua shi pian	1
+古董革	gu dong ge	1
+古董毯	gu dong tan	1
+孤独杀手	gu du sha shou	1
+咕尔呱洛斯	gu er gua luo si	1
+骨颌彗星兵	gu he hui xing bing	1
+骨颌族	gu he zu	1
+骨灰	gu hui	1
+姑获鸟	gu huo niao	1
+古火眼石	gu huo yan shi	1
+古木树液	gu mu shu ye	1
+古木树液块	gu mu shu ye kuai	1
+古鸟的粗皮	gu niao de cu pi	1
+古鸟革	gu niao ge	1
+古菩灰	gu pu hui	1
+古菩猩猩的粗皮	gu pu xing xing de cu pi	1
+古菩猩猩之牙	gu pu xing xing zhi ya	1
+鼓钱袋	gu qian dai	1
+古神木材	gu shen mu cai	1
+钴铁板	gu tie ban	1
+钴铁钉	gu tie ding	1
+钴铁锭	gu tie ding	1
+钴铁环	gu tie huan	1
+钴铁连接板	gu tie lian jie ban	1
+钴铁铆钉	gu tie mao ding	1
+钴铁棕	gu tie zong	1
+古象鼻鱼	gu xiang bi yu	1
+古羊皮纸	gu yang pi zhi	1
+雇员幻想药	gu yuan huan xiang yao	1
+棺材板	guan cai ban	1
+冠恐鸟蛋	guan kong niao dan	1
+冠毛大树	guan mao da shu	1
+灌木树苗	guan mu shu miao	1
+光流纤维	guang liu xian wei	1
+光轮祭坛	guang lun ji tan	1
+光银锭	guang yin ding	1
+光银块	guang yin kuai	1
+光银矿	guang yin kuang	1
+鬼鮟鱇肝脏	gui an kang gan zang	1
+贵橄榄石	gui gan lan shi	1
+鬼观梦	gui guan meng	1
+硅化木	gui hua mu	1
+硅化木宝珠	gui hua mu bao zhu	1
+龟甲岛近海	gui jia dao jin hai	1
+鬼胶	gui jiao	1
+鬼壳烧	gui ke shao	1
+贵榴石	gui liu shi	1
+桂皮	gui pi	1
+鬼神甲壳碎片	gui shen jia qiao sui pian	1
+鲑鱼粉	gui yu fen	1
+鲑鱼排	gui yu pai	1
+鲑鱼松饼	gui yu song bing	1
+鲑鱼籽	gui yu zi	1
+贵族葡萄	gui zu pu tao	1
+果酒红	guo jiu hong	1
+果仁蜜饼	guo ren mi bing	1
+过属性晶簇	guo shu xing jing cu	1
+过属性水晶	guo shu xing shui jing	1
+国王饼	guo wang bing	1
+果香特饮	guo xiang te yin	1
+果园棕	guo yuan zong	1
+哈尔德拉斯行军道	ha er de la si xing jun dao	1
+哈克卡勒河	ha ke ka le he	1
+哈克苦鱼	ha ke ku yu	1
+哈罗妮丁菊	ha luo ni ding ju	1
+哈希瓦河东支流	ha xi wa he dong zhi liu	1
+哈希瓦河上游	ha xi wa he shang you	1
+哈希瓦河下游	ha xi wa he xia you	1
+哈希瓦河中游	ha xi wa he zhong you	1
+海盗猎人	hai dao lie ren	1
+海港鲱	hai gang fei	1
+骸骨白	hai gu bai	1
+海蓝石	hai lan shi	1
+骸鲢鱼	hai lian yu	1
+海沙	hai sha	1
+海神剑	hai shen jian	1
+海神汤	hai shen tang	1
+海水	hai shui	1
+海雾村	hai wu cun	1
+海雾蓝	hai wu lan	1
+海巫婆	hai wu po	1
+海鲜拌面	hai xian ban mian	1
+海岩龙虾	hai yan long xia	1
+海云水母	hai yun shui mu	1
+海藻盐	hai zao yan	1
+海中老人	hai zhong lao ren	1
+寒冰蓝	han bing lan	1
+寒冰陷阱草的叶子	han bing xian jing cao de ye zi	1
+寒风岛	han feng dao	1
+汉尼拔	han ni ba	1
+核爆鱼	he bao yu	1
+合成生物的粗皮	he cheng sheng wu de cu pi	1
+褐飞刀	he fei dao	1
+和风流地	he feng liu de	1
+河沙	he sha	1
+褐铁矿	he tie kuang	1
+黑暗	hei an	1
+黑暗红	hei an hong	1
+黑暗蓝	hei an lan	1
+黑暗绿	hei an lv	1
+黑暗紫	hei an zi	1
+黑暗棕	hei an zong	1
+黑碧玺	hei bi xi	1
+黑豺的粗皮	hei chai de cu pi	1
+黑豺之牙	hei chai zhi ya	1
+黑滴糖	hei di tang	1
+黑果醋	hei guo cu	1
+黑胡椒	hei hu jiao	1
+黑火药	hei huo yao	1
+黑胶	hei jiao	1
+黑狼的粗皮	hei lang de cu pi	1
+黑狼革	hei lang ge	1
+黑狼之牙	hei lang zhi ya	1
+黑柳木材	hei liu mu cai	1
+黑柳原木	hei liu yuan mu	1
+黑吕色漆	hei lv se qi	1
+黑麦	hei mai	1
+黑麦粉	hei mai fen	1
+黑蒙鱼	hei meng yu	1
+黑魔	hei mo	1
+黑漆	hei qi	1
+黑骑	hei qi	1
+黑石灰岩	hei shi hui yan	1
+黑松露	hei song lu	1
+黑松露烩饭	hei song lu hui fan	1
+黑檀板材	hei tan ban cai	1
+黑檀木材	hei tan mu cai	1
+黑檀原木	hei tan yuan mu	1
+黑檀枝	hei tan zhi	1
+黑铁板	hei tie ban	1
+黑铁大桥	hei tie da qiao	1
+黑铁钉	hei tie ding	1
+黑铁锭	hei tie ding	1
+黑铁附魔墨水	hei tie fu mo mo shui	1
+黑铁环	hei tie huan	1
+黑铁连接板	hei tie lian jie ban	1
+黑铁铆钉	hei tie mao ding	1
+黑土	hei tu	1
+黑涡	hei wo	1
+黑涡团	hei wo tuan	1
+黑巫鱼	hei wu yu	1
+黑线鳕沙拉	hei xian xue sha la	1
+黑羊的粗皮	hei yang de cu pi	1
+黑衣森林北部林区	hei yi sen lin bei bu lin qu	1
+黑衣森林东部林区	hei yi sen lin dong bu lin qu	1
+黑衣森林南部林区	hei yi sen lin nan bu lin qu	1
+黑衣森林中央林区	hei yi sen lin zhong yang lin qu	1
+黑衣香木	hei yi xiang mu	1
+黑珍珠	hei zhen zhu	1
+黑朱砂	hei zhu sha	1
+恒冰地带的鼠尾草	heng bing di dai de shu wei cao	1
+恒冰地带的天然水	heng bing di dai de tian ran shui	1
+亨格坩埚	heng ge gan guo	1
+恒辉	heng hui	1
+恒辉队	heng hui dui	1
+红宝石	hong bao shi	1
+红宝石番茄	hong bao shi fan qie	1
+红宝石原石	hong bao shi yuan shi	1
+烘焙咖啡豆	hong bei ka fei dou	1
+虹布	hong bu	1
+红彩鱼	hong cai yu	1
+红茶川水系上游	hong cha chuan shui xi shang you	1
+红茶川水系下游	hong cha chuan shui xi xia you	1
+红滴糖	hong di tang	1
+红电气石	hong dian qi shi	1
+轰击泡	hong ji pao	1
+虹鳉	hong jiang	1
+红角犀鸟胸肉	hong jue xi niao xiong rou	1
+红孔雀石	hong kong que shi	1
+红辣椒	hong la jiao	1
+红莲特饮	hong lian te yin	1
+红陆蟹甲壳	hong lu xie jia qiao	1
+红焖皮皮拉鱼	hong men pi pi la yu	1
+红明矾	hong ming fan	1
+红莫柯草	hong mo ke cao	1
+虹膜紫	hong mo zi	1
+红木板材	hong mu ban cai	1
+红木木材	hong mu mu cai	1
+红木枝	hong mu zhi	1
+红票	hong piao	1
+红气球虫	hong qi qiu chong	1
+红珊瑚	hong shan hu	1
+红螳螂瀑布	hong tang lang pu bu	1
+红铜板	hong tong ban	1
+红铜锭	hong tong ding	1
+红铜附魔墨水	hong tong fu mo mo shui	1
+红铜环	hong tong huan	1
+红铜铆钉	hong tong mao ding	1
+红尾僵尸鱼	hong wei jiang shi yu	1
+虹线	hong xian	1
+红锈岩山	hong xiu yan shan	1
+红亚麻	hong ya ma	1
+红沿	hong yan	1
+红玉海	hong yu hai	1
+红玉海带	hong yu hai dai	1
+红玉棉布	hong yu mian bu	1
+红玉棉线	hong yu mian xian	1
+红玉炮台近海	hong yu pao tai jin hai	1
+红玉髓	hong yu sui	1
+红玉虾	hong yu xia	1
+红玉藻	hong yu zao	1
+红州黑猪肉	hong zhou hei zhu rou	1
+猴面雀杀手	hou mian que sha shou	1
+候鸟云巢	hou niao yun chao	1
+后桅饼干	hou wei bing gan	1
+蝴蝶夫人	hu die fu ren	1
+琥珀	hu po	1
+琥珀蝾螈	hu po rong yuan	1
+胡桃	hu tao	1
+胡桃板材	hu tao ban cai	1
+胡桃面包	hu tao mian bao	1
+胡桃木材	hu tao mu cai	1
+胡桃枝	hu tao zhi	1
+护土精灵	hu tu jing ling	1
+虎眼石	hu yan shi	1
+胡鹰的羽毛	hu ying de yu mao	1
+花岗蟹	hua gang xie	1
+花海龙	hua hai long	1
+花海马	hua hai ma	1
+花花公子布	hua hua gong zi bu	1
+花花公子鞣革	hua hua gong zi rou ge	1
+花甲虫翅鞘	hua jia chong chi qiao	1
+花林女郎	hua lin nv lang	1
+滑溜帝王	hua liu di wang	1
+滑溜狮子鱼	hua liu shi zi yu	1
+花蜜栈桥	hua mi zhan qiao	1
+桦木木材	hua mu mu cai	1
+桦木树汁	hua mu shu zhi	1
+桦木糖浆	hua mu tang jiang	1
+化石骨舌鱼	hua shi gu she yu	1
+花纹眼	hua wen yan	1
+花舞仙人刺	hua wu xian ren ci	1
+花蝇	hua ying	1
+幻河	huan he	1
+幻河上游	huan he shang you	1
+环棘鱼	huan ji yu	1
+幻想药	huan xiang yao	1
+幻影群岛北岸	huan ying qun dao bei an	1
+幻影群岛南岸	huan ying qun dao nan an	1
+黄滴糖	huang di tang	1
+黄褐乳胶	huang he ru jiao	1
+煌黑鱼子酱	huang hei yu zi jiang	1
+黄昏灵砂	huang hun ling sha	1
+黄昏鞣革	huang hun rou ge	1
+黄昏珊瑚	huang hun shan hu	1
+黄昏湾	huang hun wan	1
+黄昏之盏	huang hun zhi zhan	1
+皇家可可豆	huang jia ke ke dou	1
+皇家可可豆粉	huang jia ke ke dou fen	1
+皇家蒸蛋	huang jia zheng dan	1
+皇金锭	huang jin ding	1
+黄金锭	huang jin ding	1
+皇金附魔墨水	huang jin fu mo mo shui	1
+黄金附魔墨水	huang jin fu mo mo shui	1
+黄金港	huang jin gang	1
+皇金块	huang jin kuai	1
+黄金块	huang jin kuai	1
+皇金矿	huang jin kuang	1
+皇金鱼	huang jin yu	1
+黄麻	huang ma	1
+黄麻线	huang ma xian	1
+黄盲头蟹腿	huang mang tou xie tui	1
+黄票	huang piao	1
+黄沙棕	huang sha zong	1
+荒神布	huang shen bu	1
+荒神钢锭	huang shen gang ding	1
+荒神革	huang shen ge	1
+荒神合金	huang shen he jin	1
+荒神精革	huang shen jing ge	1
+荒神灵银	huang shen ling yin	1
+荒神纤维	huang shen xian wei	1
+皇室蓝	huang shi lan	1
+黄水晶	huang shui jing	1
+黄铁矿	huang tie kuang	1
+黄铜板	huang tong ban	1
+黄铜锭	huang tong ding	1
+黄铜环	huang tong huan	1
+黄铜矿	huang tong kuang	1
+黄铜铆钉	huang tong mao ding	1
+黄铜勺形鱼饵	huang tong shao xing yu er	1
+黄土	huang tu	1
+黄杏	huang xing	1
+荒烟野地	huang yan ye di	1
+黄油	huang you	1
+黄油虫	huang you chong	1
+黄玉	huang yu	1
+黄玉原石	huang yu yuan shi	1
+恢复药	hui fu yao	1
+灰烬池	hui jin chi	1
+辉金矿	hui jin kuang	1
+灰泥	hui ni	1
+秽水	hui shui	1
+辉铜矿	hui tong kuang	1
+灰尾瀑布	hui wei pu bu	1
+茴香	hui xiang	1
+彗星棉布	hui xing mian bu	1
+彗星棉线	hui xing mian xian	1
+灰玉土	hui yu tu	1
+灰汁	hui zhi	1
+昏暗林	hun an lin	1
+获得力	huo de li	1
+获得率	huo de lv	1
+火愤牛	huo fen niu	1
+火光砾	huo guang li	1
+火光石	huo guang shi	1
+火蛟的粗皮	huo jiao de cu pi	1
+火蛟鳞	huo jiao lin	1
+火龙的鳞	huo long de lin	1
+火龙的上鳞	huo long de shang lin	1
+火墙	huo qiang	1
+火砂砾	huo sha li	1
+火蜥蜴河	huo xi yi he	1
+活虾	huo xia	1
+活性化晶簇	huo xing hua jing cu	1
+火眼金睛的追踪者	huo yan jin jing de zhui zong zhe	1
+火眼石	huo yan shi	1
+火萤	huo ying	1
+火之晶簇	huo zhi jing cu	1
+火之水晶	huo zhi shui jing	1
+级纯净棱晶	ji chun jing leng jing	1
+击刺魔蜂索菲	ji ci mo feng suo fei	1
+鸡蛋	ji dan	1
+极地磷虾	ji di lin xia	1
+极度警戒	ji du jing jie	1
+级刚力炼金溶剂	ji gang li lian jin rong ji	1
+级刚力之灵水	ji gang li zhi ling shui	1
+鸡高汤	ji gao tang	1
+机工	ji gong	1
+机工兵斯利普金克斯	ji gong bing si li pu jin ke si	1
+极光灵砂	ji guang ling sha	1
+级黑衣森林土壤	ji hei yi sen lin tu rang	1
+基拉巴尼亚边区	ji la ba ni ya bian qu	1
+基拉巴尼亚胡萝卜	ji la ba ni ya hu luo bo	1
+基拉巴尼亚湖区	ji la ba ni ya hu qu	1
+基拉巴尼亚蜡	ji la ba ni ya la	1
+基拉巴尼亚炼金药	ji la ba ni ya lian jin yao	1
+基拉巴尼亚鲢鱼	ji la ba ni ya lian yu	1
+基拉巴尼亚清水	ji la ba ni ya qing shui	1
+基拉巴尼亚山区	ji la ba ni ya shan qu	1
+基拉巴尼亚碳晶	ji la ba ni ya tan jing	1
+基拉巴尼亚鳟	ji la ba ni ya zun	1
+极乐鸟	ji le niao	1
+技力恢复之羽	ji li hui fu zhi yu	1
+基里麦卡拉	ji li mai ka la	1
+疾龙的粗皮	ji long de cu pi	1
+级耐力炼金溶剂	ji nai li lian jin rong ji	1
+级耐力之灵水	ji nai li zhi ling shui	1
+级巧力炼金溶剂	ji qiao li lian jin rong ji	1
+级巧力之灵水	ji qiao li zhi ling shui	1
+祭司蛋包饭	ji si dan bao fan	1
+极细绢丝	ji xi juan si	1
+吉祥天女羽衣	ji xiang tian nv yu yi	1
+鸡胸肉	ji xiong rou	1
+级意力炼金溶剂	ji yi li lian jin rong ji	1
+级意力之灵水	ji yi li zhi ling shui	1
+鸡油菌	ji you jun	1
+级智力炼金溶剂	ji zhi li lian jin rong ji	1
+级智力之灵水	ji zhi li zhi ling shui	1
+甲鲎	jia hou	1
+迦迦纳怪鸟蛋	jia jia na guai niao dan	1
+迦迦纳怪鸟的粗皮	jia jia na guai niao de cu pi	1
+迦迦纳怪鸟革	jia jia na guai niao ge	1
+甲胶	jia jiao	1
+甲鳞之血	jia lin zhi xue	1
+加隆德钢	jia long de gang	1
+迦楼罗魔羽	jia lou luo mo yu	1
+迦楼罗之羽	jia lou luo zhi yu	1
+伽洛克	jia luo ke	1
+加诺	jia nuo	1
+甲人族	jia ren zu	1
+加特林针鼹	jia te lin zhen yan	1
+鉴别力	jian bie li	1
+煎饼	jian bing	1
+煎菠菜	jian bo cai	1
+剑齿鳕	jian chi xue	1
+剪刀手雅克	jian dao shou ya ke	1
+剑峰山麓	jian feng shan lu	1
+煎鸡油菌	jian ji you jun	1
+尖叫菇	jian jiao gu	1
+尖晶石	jian jing shi	1
+煎绿韭葱	jian lv jiu cong	1
+箭木枝	jian mu zhi	1
+煎牛肝菌	jian niu gan jun	1
+剑旗鱼	jian qi yu	1
+尖枪瀑布	jian qiang pu bu	1
+煎跳蜥蛋	jian tiao xi dan	1
+酱油	jiang you	1
+角粉	jiao fen	1
+教皇鱼	jiao huang yu	1
+交汇河	jiao hui he	1
+焦炭	jiao tan	1
+焦糖牛奶沙司	jiao tang niu nai sha si	1
+蛟蜥的粗皮	jiao xi de cu pi	1
+蛟蜥革	jiao xi ge	1
+蛟蜥漆皮	jiao xi qi pi	1
+浇汁菜蛙	jiao zhi cai wa	1
+角祖	jiao zu	1
+解毒药	jie du yao	1
+杰克南瓜灯	jie ke nan gua deng	1
+芥末蛋	jie mo dan	1
+结实的筋腱	jie shi de jin jian	1
+解脱鱼	jie tuo yu	1
+接雨草树林	jie yu cao shu lin	1
+接雨草沼泽地	jie yu cao zhao ze di	1
+金币	jin bi	1
+金锤台地	jin chui tai di	1
+金蝶	jin die	1
+金碟币	jin die bi	1
+金碟游乐场	jin die you le chang	1
+金粉	jin fen	1
+金刚砂	jin gang sha	1
+金龟绿	jin gui lv	1
+金合欢树皮	jin he huan shu pi	1
+进化型亚拉戈高位钢盔鲎	jin hua xing ya la ge gao wei gang kui hou	1
+金矿	jin kuang	1
+金绿柱石	jin lv zhu shi	1
+金苹果	jin ping guo	1
+金平糖	jin ping tang	1
+金鳍蝶	jin qi die	1
+金钱蘑	jin qian mo	1
+金钱蘑炒鸡肉	jin qian mo chao ji rou	1
+金枪鲨	jin qiang sha	1
+堇青石	jin qing shi	1
+堇青石原石	jin qing shi yuan shi	1
+金沙	jin sha	1
+禁书	jin shu	1
+金属橙	jin shu cheng	1
+金属靛	jin shu dian	1
+金属红	jin shu hong	1
+金属黄	jin shu huang	1
+金属蓝	jin shu lan	1
+金属绿	jin shu lv	1
+金属紫	jin shu zi	1
+金鱼	jin yu	1
+金云母	jin yun mu	1
+金针	jin zhen	1
+镜池	jing chi	1
+精纺毛纱	jing fang mao sha	1
+惊慌稻草龙	jing huang dao cao long	1
+荆棘森	jing ji sen	1
+精金锭	jing jin ding	1
+精金块	jing jin kuai	1
+精金矿	jing jin kuang	1
+精金铆钉	jing jin mao ding	1
+精炼药	jing lian yao	1
+晶亮苹果	jing liang ping guo	1
+粳米	jing mi	1
+精密药	jing mi yao	1
+静魔药	jing mo yao	1
+精梳毛布	jing shu mao bu	1
+净髓蜗牛	jing sui wo niu	1
+精选	jing xuan	1
+韭菜洋葱汤	jiu cai yang cong tang	1
+纠缠沼泽林	jiu chan zhao ze lin	1
+纠缠沼泽林源流	jiu chan zhao ze lin yuan liu	1
+究极神兵原型装甲板	jiu ji shen bing yuan xing zhuang jia ban	1
+旧世界无花果	jiu shi jie wu hua guo	1
+旧世界无花果种子	jiu shi jie wu hua guo zhong zi	1
+九藤	jiu teng	1
+酒香蒸鲶鱼	jiu xiang zheng nian yu	1
+巨蟾蜍的粗皮	ju chan chu de cu pi	1
+巨蟾蜍革	ju chan chu ge	1
+巨大鳐	ju da yao	1
+巨大鳐七彩飞鱼	ju da yao qi cai fei yu	1
+巨匠药茶	ju jiang yao cha	1
+锯鲛	ju jiao	1
+聚精会神	ju jing hui shen	1
+俱利摩	ju li mo	1
+巨龙的粗皮	ju long de cu pi	1
+巨龙革	ju long ge	1
+巨龙首	ju long shou	1
+巨龙首营地水库	ju long shou ying di shui ku	1
+巨龙之牙	ju long zhi ya	1
+榉木木材	ju mu mu cai	1
+巨鲨	ju sha	1
+巨型大蚊	ju xing da wen	1
+巨型乌贼	ju xing wu zei	1
+巨熊的粗皮	ju xiong de cu pi	1
+巨蝇之羽	ju ying zhi yu	1
+巨陨龟	ju yun gui	1
+卷层云魟	juan ceng yun hong	1
+卷风鲨	juan feng sha	1
+绢鲤	juan li	1
+绝鬼岛	jue gui dao	1
+倔强鲫鱼	jue jiang ji yu	1
+绝灵布	jue ling bu	1
+绝命	jue ming	1
+角色设置	jue se she zhi	1
+军票	jun piao	1
+君王鬼蜻蜓	jun wang gui qing ting	1
+骏鹰的粗皮	jun ying de cu pi	1
+骏鹰革	jun ying ge	1
+骏鹰革细绳	jun ying ge xi sheng	1
+骏鹰钩爪	jun ying gou zhao	1
+骏鹰筋腱	jun ying jin jian	1
+骏鹰软革	jun ying ruan ge	1
+军用复生药	jun yong fu sheng yao	1
+军用苏醒药	jun yong su xing yao	1
+菌蒸皮皮拉鱼	jun zheng pi pi la yu	1
+卡贝基野菜	ka bei ji ye cai	1
+凯门鳄	kai men e	1
+凯撒贝希摩斯	kai sa bei xi mo si	1
+凯撒面包	kai sa mian bao	1
+铠鱼	kai yu	1
+坎帕提	kan pa ti	1
+抗沉默剂	kang chen mo ji	1
+抗毒剂	kang du ji	1
+抗加重剂	kang jia zhong ji	1
+抗减速剂	kang jian su ji	1
+抗失明剂	kang shi ming ji	1
+抗睡眠剂	kang shui mian ji	1
+抗眩晕剂	kang xuan yun ji	1
+抗止步剂	kang zhi bu ji	1
+烤海螺	kao hai luo	1
+烤黑鳎	kao hei ta	1
+烤全渡渡鸟	kao quan du du niao	1
+烤仙人掌叶	kao xian ren zhang ye	1
+可可豆	ke ke dou	1
+可可粉	ke ke fen	1
+可可油	ke ke you	1
+克鲁泽	ke lu ze	1
+科内利亚	ke nei li ya	1
+刻托的爪子	ke tuo de zhua zi	1
+空棘鱼	kong ji yu	1
+恐龙革	kong long ge	1
+孔雀蓝	kong que lan	1
+孔雀石	kong que shi	1
+空山石	kong shan shi	1
+空心穴	kong xin xue	1
+空鱼	kong yu	1
+口花绿	kou hua lv	1
+苦尔鳗	ku er man	1
+库尔札斯不冻池	ku er zha si bu dong chi	1
+库尔札斯茶叶	ku er zha si cha ye	1
+库尔札斯茶叶种子	ku er zha si cha ye zhong zi	1
+库尔札斯海若螺	ku er zha si hai ruo luo	1
+库尔札斯河	ku er zha si he	1
+库尔札斯胡萝卜	ku er zha si hu luo bo	1
+库尔札斯青葱	ku er zha si qing cong	1
+库尔札斯西部高地	ku er zha si xi bu gao di	1
+库尔札斯中央高地	ku er zha si zhong yang gao di	1
+枯骨	ku gu	1
+枯骨北泉	ku gu bei quan	1
+枯骨南泉	ku gu nan quan	1
+库雷亚	ku lei ya	1
+骷髅谷沿岸地	ku lou gu yan an di	1
+宽耳凶蝠	kuan er xiong fu	1
+宽慰河	kuan wei he	1
+狂斗鱼	kuang dou yu	1
+矿脉	kuang mai	1
+矿爬虫虫	kuang pa chong chong	1
+矿泉水	kuang quan shui	1
+葵花籽	kui hua zi	1
+蛞蝓的粘液	kuo yu de nian ye	1
+拉尔戈鲶鱼	la er ge nian yu	1
+蝲蛄丸子	la gu wan zi	1
+拉吉克灵沙	la ji ke ling sha	1
+拉吉克灵药	la ji ke ling yao	1
+拉吉克硬化触媒	la ji ke ying hua chu mei	1
+辣椒焗奶酪	la jiao ju nai lao	1
+拉雷亚尔	la lei ya er	1
+拉姆魔珠	la mu mo zhu	1
+拉姆之珠	la mu zhi zhu	1
+拉诺西亚低地	la nuo xi ya di di	1
+拉诺西亚高地	la nuo xi ya gao di	1
+拉诺西亚韭菜	la nuo xi ya jiu cai	1
+拉诺西亚土壤	la nuo xi ya tu rang	1
+拉诺西亚吐司	la nuo xi ya tu si	1
+拉诺西亚外地	la nuo xi ya wai di	1
+拉诺西亚莴苣	la nuo xi ya wo ju	1
+拉诺西亚香橙	la nuo xi ya xiang cheng	1
+拉诺西亚岩盐	la nuo xi ya yan yan	1
+拉塔托斯克之魂	la ta tuo si ke zhi hun	1
+拉坦尼叶	la tan ni ye	1
+拉条子	la tiao zi	1
+拉札罕淬火油	la zha han cui huo you	1
+拉札罕斜纹布	la zha han xie wen bu	1
+蓝螯虾	lan ao xia	1
+蓝宝石	lan bao shi	1
+蓝宝石扇鳉	lan bao shi shan jiang	1
+蓝宝石原石	lan bao shi yuan shi	1
+蓝彩鱼	lan cai yu	1
+兰代勒翼龙	lan dai le yi long	1
+蓝带肉排	lan dai rou pai	1
+蓝滴糖	lan di tang	1
+蓝寡妇	lan gua fu	1
+蓝狐的毛皮	lan hu de mao pi	1
+蓝矶沙蚕	lan ji sha can	1
+蓝晶石	lan jing shi	1
+蓝霉奶酪	lan mei nai lao	1
+蓝票	lan piao	1
+蓝珊瑚	lan shan hu	1
+蓝尸	lan shi	1
+蓝天窗	lan tian chuang	1
+蓝天珊瑚	lan tian shan hu	1
+蓝铁矿	lan tie kuang	1
+蓝雾	lan wu	1
+琅玕	lang gan	1
+琅玕原石	lang gan yuan shi	1
+狼印战绩	lang yin zhan ji	1
+劳班缓冲地	lao ban huan chong di	1
+姥鲨	lao sha	1
+雷德罗巨蛇	lei de luo ju she	1
+雷遁鱼	lei dun yu	1
+雷光砾	lei guang li	1
+雷光石	lei guang shi	1
+雷皇子	lei huang zi	1
+雷蛟的粗皮	lei jiao de cu pi	1
+雷蛟鳞	lei jiao lin	1
+雷鳞蝾螈	lei lin rong yuan	1
+雷砂砾	lei sha li	1
+雷神光	lei shen guang	1
+雷神鱼	lei shen yu	1
+雷纹鱼	lei wen yu	1
+雷眼石	lei yan shi	1
+雷雨	lei yu	1
+雷之晶簇	lei zhi jing cu	1
+雷之水晶	lei zhi shui jing	1
+冷却	leng que	1
+里德尔	li de er	1
+礼服面料	li fu mian liao	1
+锂辉石	li hui shi	1
+锂辉石原石	li hui shi yuan shi	1
+黎明少女	li ming shao nv	1
+栗木板材	li mu ban cai	1
+栗木木材	li mu mu cai	1
+利姆萨罗敏萨	li mu sa luo min sa	1
+利姆萨罗敏萨上层甲板	li mu sa luo min sa shang ceng jia ban	1
+利姆萨罗敏萨下层甲板	li mu sa luo min sa xia ceng jia ban	1
+栗木原木	li mu yuan mu	1
+栗鼠的粗皮	li shu de cu pi	1
+栗鼠肉	li shu rou	1
+栗鼠肉排	li shu rou pai	1
+栗树枝	li shu zhi	1
+利维亚桑魔棘	li wei ya sang mo ji	1
+利维亚桑之棘	li wei ya sang zhi ji	1
+丽舞蟹	li wu xie	1
+利西达斯	li xi da si	1
+栗子冰糕	li zi bing gao	1
+莲花粉	lian hua fen	1
+炼金树脂	lian jin shu zhi	1
+炼金纤维	lian jin xian wei	1
+莲藕	lian ou	1
+恋心球藻	lian xin qiu zao	1
+莲叶	lian ye	1
+涟漪小川	lian yi xiao chuan	1
+炼狱火角	lian yu huo jiao	1
+良材	liang cai	1
+料酒	liao jiu	1
+猎人风味水蜥饼	lie ren feng wei shui xi bing	1
+猎人绿	lie ren lv	1
+鳞粉	lin fen	1
+鳞胶	lin jiao	1
+鳞脚螺	lin jiao luo	1
+鳞鲶	lin nian	1
+菱饼	ling bing	1
+灵电	ling dian	1
+灵风	ling feng	1
+灵峰泉水	ling feng quan shui	1
+灵矿蛋糕	ling kuang dan gao	1
+灵木树液块	ling mu shu ye kuai	1
+灵砂砾	ling sha li	1
+灵兽的角粉	ling shou de jiao fen	1
+蛉蝎	ling xie	1
+菱锌矿	ling xin kuang	1
+灵性岩	ling xing yan	1
+灵眼石	ling yan shi	1
+羚羊角	ling yang jiao	1
+羚羊胫肉	ling yang jing rou	1
+羚羊肉排	ling yang rou pai	1
+灵银锭	ling yin ding	1
+灵银附魔墨水	ling yin fu mo mo shui	1
+灵银块	ling yin kuai	1
+灵银铆钉	ling yin mao ding	1
+灵芝	ling zhi	1
+柳桉板材	liu an ban cai	1
+柳桉木材	liu an mu cai	1
+柳桉原木	liu an yuan mu	1
+柳桉枝	liu an zhi	1
+留兰	liu lan	1
+柳木板材	liu mu ban cai	1
+柳木木材	liu mu mu cai	1
+柳木原木	liu mu yuan mu	1
+六识之血	liu shi zhi xue	1
+柳树枝	liu shu zhi	1
+硫酸	liu suan	1
+流星尾	liu xing wei	1
+龙堡参天高地	long bao can tian gao di	1
+龙堡浮草	long bao fu cao	1
+龙堡红辣椒	long bao hong la jiao	1
+龙堡槲寄生	long bao hu ji sheng	1
+龙堡鲈	long bao lu	1
+龙堡内陆低地	long bao nei lu di di	1
+龙鳞	long lin	1
+龙鳞撕裂者	long lin si lie zhe	1
+龙骑	long qi	1
+龙息椒	long xi jiao	1
+龙涎	long xian	1
+龙炎碎片	long yan sui pian	1
+龙族之血	long zu zhi xue	1
+蝼蛄	lou gu	1
+娄希的冰片	lou xi de bing pian	1
+卢芭	lu ba	1
+鲁冰花苗	lu bing hua miao	1
+露齿鲤	lu chi li	1
+卢恩棕	lu en zong	1
+芦荟	lu hui	1
+卢克洛塔	lu ke luo ta	1
+露线	lu xian	1
+陆蟹蟹脚	lu xie xie jiao	1
+陆行鸟拟饵	lu xing niao ni er	1
+陆行鸟之森	lu xing niao zhi sen	1
+路易波士红茶	lu yi bo shi hong cha	1
+路易波士红茶茶叶	lu yi bo shi hong cha cha ye	1
+鲈鱼丸子	lu yu wan zi	1
+罗波那魔翅	luo bo na mo chi	1
+罗波那之翅	luo bo na zhi chi	1
+落翠底	luo cui di	1
+洛夫坦山羊里脊	luo fu tan shan yang li ji	1
+洛夫坦山羊排	luo fu tan shan yang pai	1
+洛夫坦山羊汤	luo fu tan shan yang tang	1
+洛夫坦山羊雪花肉	luo fu tan shan yang xue hua rou	1
+罗海蓝	luo hai lan	1
+罗兰莓	luo lan mei	1
+罗兰莓刨冰	luo lan mei bao bing	1
+罗兰莓奶酪	luo lan mei nai lao	1
+罗兰莓奶酪蛋糕	luo lan mei nai lao dan gao	1
+罗兰莓酸奶昔	luo lan mei suan nai xi	1
+落雷鳗	luo lei man	1
+落魔崖	luo mo ya	1
+罗塔诺海	luo ta nuo hai	1
+裸岩丘	luo yan qiu	1
+落叶松木材	luo ye song mu cai	1
+绿宝石豆	lv bao shi dou	1
+绿宝石汤	lv bao shi tang	1
+绿彩鱼	lv cai yu	1
+绿灯球藻	lv deng qiu zao	1
+绿滴糖	lv di tang	1
+律动药	lv dong yao	1
+绿金板	lv jin ban	1
+绿金锭	lv jin ding	1
+绿金附魔墨水	lv jin fu mo mo shui	1
+绿金环	lv jin huan	1
+绿韭葱	lv jiu cong	1
+绿陆蟹甲壳	lv lu xie jia qiao	1
+绿树蟾蜍	lv shu chan chu	1
+绿树蟾蜍腿	lv shu chan chu tui	1
+绿松蓝	lv song lan	1
+绿松石	lv song shi	1
+绿小丑	lv xiao chou	1
+绿茵岛	lv yin dao	1
+玛贝利	ma bei li	1
+麻痹毒药	ma bi du yao	1
+麻痹剧毒药	ma bi ju du yao	1
+麻痹猛毒药	ma bi meng du yao	1
+马哈尔	ma ha er	1
+玛赫斯	ma he si	1
+马拉克	ma la ke	1
+玛瑙	ma nao	1
+玛瑙之泪	ma nao zhi lei	1
+玛涅斯	ma nie si	1
+麻希鲯鳅	ma xi qi qiu	1
+马希沙	ma xi sha	1
+马郁兰	ma yu lan	1
+马兹拉雅草	ma zi la ya cao	1
+蔓根沼	man gen zhao	1
+曼殊师里的毛发	man shu shi li de mao fa	1
+鳗鱼派	man yu pai	1
+满月沙丁鱼	man yue sha ding yu	1
+盲铁坑道	mang tie keng dao	1
+毛虫茧	mao chong jian	1
+毛虫丝	mao chong si	1
+铆钉牡蛎	mao ding mu li	1
+毛栗子	mao li zi	1
+毛鳞鱼	mao lin yu	1
+猫魅风味海产烤串	mao mei feng wei hai chan kao chuan	1
+猫魅风味森鲜烤串	mao mei feng wei sen xian kao chuan	1
+猫魅风味山珍烤串	mao mei feng wei shan zhen kao chuan	1
+牦牛奶	mao niu nai	1
+牦牛奶油	mao niu nai you	1
+毛球拟饵	mao qiu ni er	1
+毛丝栗鼠的毛皮	mao si li shu de mao pi	1
+梅尔托尔虾虎	mei er tuo er xia hu	1
+梅干	mei gan	1
+玫瑰粉	mei gui fen	1
+玫瑰金齿轮	mei gui jin chi lun	1
+玫瑰金锭	mei gui jin ding	1
+玫瑰金附魔墨水	mei gui jin fu mo mo shui	1
+玫瑰金块	mei gui jin kuai	1
+煤焦油	mei jiao you	1
+美拉西迪亚芝麻	mei la xi di ya zhi ma	1
+梅泉乡	mei quan xiang	1
+煤烟黑	mei yan hei	1
+梅茵菲娜月桂	mei yin fei na yue gui	1
+煤玉黑	mei yu hei	1
+门前卫街	men qian wei jie	1
+猛豹黄	meng bao huang	1
+猛虎的粗皮	meng hu de cu pi	1
+猛虎革	meng hu ge	1
+梦幻帽布料	meng huan mao bu liao	1
+梦幻虾虎	meng huan xia hu	1
+梦幻靴革料	meng huan xue ge liao	1
+梦幻装布料	meng huan zhuang bu liao	1
+猛犸章鱼	meng ma zhang yu	1
+猛牛口食	meng niu kou shi	1
+猛牛浴池	meng niu yu chi	1
+萌芽池	meng ya chi	1
+蜜场	mi chang	1
+蜜虫	mi chong	1
+米醋	mi cu	1
+迷迭香	mi die xiang	1
+蜜蜂	mi feng	1
+米腊德罗斯蜂鸟	mi la de luo si feng niao	1
+米勒卡	mi le ka	1
+蜜柠檬	mi ning meng	1
+蜜柠檬种子	mi ning meng zhong zi	1
+秘银板	mi yin ban	1
+秘银锭	mi yin ding	1
+秘银附魔墨水	mi yin fu mo mo shui	1
+秘银环	mi yin huan	1
+秘银铆钉	mi yin mao ding	1
+秘制高汤	mi zhi gao tang	1
+秘制骸炭	mi zhi hai tan	1
+秘制蜡	mi zhi la	1
+秘制鳗鱼派	mi zhi man yu pai	1
+秘制王冠蛋糕	mi zhi wang guan dan gao	1
+秘制硬化触媒	mi zhi ying hua chu mei	1
+棉布	mian bu	1
+棉布帆布	mian bu fan bu	1
+棉绒	mian rong	1
+棉线	mian xian	1
+绵羊毛	mian yang mao	1
+棉云魟	mian yun hong	1
+棉籽油	mian zi you	1
+冥鬼的翅膀	ming gui de chi bang	1
+冥鬼之泪	ming gui zhi lei	1
+冥河灯	ming he deng	1
+名匠药茶	ming jiang yao cha	1
+明胶	ming jiao	1
+明胶怪的肉	ming jiao guai de rou	1
+名门府邸静语庄园	ming men fu di jing yu zhuang yuan	1
+明月坚果	ming yue jian guo	1
+缪恩鱼	miu en yu	1
+抹茶	mo cha	1
+魔蟾蜍的粗皮	mo chan chu de cu pi	1
+魔蟾蜍革	mo chan chu ge	1
+魔大陆阿济兹拉	mo da lu a ji zi la	1
+魔导地狱爪	mo dao di yu zhao	1
+摩杜纳	mo du na	1
+莫尔巴	mo er ba	1
+魔帆	mo fan	1
+莫告藻	mo gao zao	1
+莫古尔古球球	mo gu er gu qiu qiu	1
+莫古莫古曲奇	mo gu mo gu qu qi	1
+蘑菇沙拉	mo gu sha la	1
+蘑菇蟹	mo gu xie	1
+魔花绿	mo hua lv	1
+魔化水银	mo hua shui yin	1
+魔幻蘑菇蟹	mo huan mo gu xie	1
+魔匠药茶	mo jiang yao cha	1
+魔界花的卷须	mo jie hua de juan xu	1
+魔界花的唾液	mo jie hua de tuo ye	1
+魔蕨菜	mo jue cai	1
+魔科学物质	mo ke xue wu zhi	1
+魔科学纤维	mo ke xue xian wei	1
+魔窟离岛	mo ku li dao	1
+莫拉比湾西岸	mo la bi wan xi an	1
+莫拉比造船厂	mo la bi zao chuan chang	1
+摩洛的角	mo luo de jiao	1
+莫名熔岩鱼	mo ming rong yan yu	1
+魔泉	mo quan	1
+磨砂玻璃板	mo sha bo li ban	1
+魔蛇鸟肉	mo she niao rou	1
+魔蛇鸟肉丸	mo she niao rou wan	1
+魔蛇鸟之羽	mo she niao zhi yu	1
+魔石精巧克力	mo shi jing qiao ke li	1
+魔梭鱼	mo suo yu	1
+魔毯	mo tan	1
+魔象的粗皮	mo xiang de cu pi	1
+魔象革	mo xiang ge	1
+牧草绿	mu cao lv	1
+姆德斯德角	mu de si de jiao	1
+钼钢锭	mu gang ding	1
+暮晖蚕茧	mu hui can jian	1
+暮晖牛肉汤	mu hui niu rou tang	1
+暮辉鱼	mu hui yu	1
+木棉	mu mian	1
+木棉豆腐	mu mian dou fu	1
+木炭灰	mu tan hui	1
+牡羊角	mu yang jiao	1
+牧羊人派	mu yang ren pai	1
+纳恩	na en	1
+纳乌尔	na wu er	1
+纳夏薄绢	na xia bo juan	1
+纳夏煎饼	na xia jian bing	1
+纳夏鞣革	na xia rou ge	1
+奶酪蛋奶酥	nai lao dan nai su	1
+奶酪烩饭	nai lao hui fan	1
+奶酪甜甜圈	nai lao tian tian quan	1
+耐力之灵药	nai li zhi ling yao	1
+耐力之龙药	nai li zhi long yao	1
+耐力之秘药	nai li zhi mi yao	1
+耐力之妙药	nai li zhi miao yao	1
+耐力之强化仙药	nai li zhi qiang hua xian yao	1
+耐力之仙药	nai li zhi xian yao	1
+耐力之药	nai li zhi yao	1
+耐力之药汤	nai li zhi yao tang	1
+耐磨剂	nai mo ji	1
+耐热石	nai re shi	1
+耐热石膏	nai re shi gao	1
+耐热性	nai re xing	1
+耐水棉布	nai shui mian bu	1
+奶油	nai you	1
+奶油黄	nai you huang	1
+奶油奶酪	nai you nai lao	1
+南迪	nan di	1
+南方墙壁	nan fang qiang bi	1
+南瓜橙	nan gua cheng	1
+南瓜曲奇	nan gua qu qi	1
+南萨纳兰	nan sa na lan	1
+南鲜血滨	nan xian xue bin	1
+内角石	nei jiao shi	1
+嫩炒蛋	nen chao dan	1
+能言者	neng yan zhe	1
+泥巨蟹兵	ni ju xie bing	1
+妮美雅百合	ni mei ya bai he	1
+尼摩船长	ni mo chuan zhang	1
+尼姆光球	ni mu guang qiu	1
+尼姆河	ni mu he	1
+尼姆蠕虫	ni mu ru chong	1
+呢绒	ni rong	1
+泥岩磨刀石	ni yan mo dao shi	1
+泥沼绿	ni zhao lv	1
+黏胶	nian jiao	1
+酿酒师灯塔	niang jiu shi deng ta	1
+酿血鱼	niang xue yu	1
+涅木卡勒河	nie mu ka le he	1
+涅槃蟹	nie pan xie	1
+涅普特龙	nie pu te long	1
+牛肝菌	niu gan jun	1
+牛鬼的粗皮	niu gui de cu pi	1
+牛鬼革	niu gui ge	1
+牛肉串	niu rou chuan	1
+牛肉干	niu rou gan	1
+牛头黑神	niu tou hei shen	1
+牛蛙	niu wa	1
+牛至	niu zhi	1
+浓厚番茄酱	nong hou fan qie jiang	1
+农家奶酪	nong jia nai lao	1
+浓缩康宝蓝	nong suo kang bao lan	1
+浓盐酸	nong yan suan	1
+浓盐鲀	nong yan tun	1
+努纽努维	nu niu nu wei	1
+糯米	nuo mi	1
+女神宝珠碎片	nv shen bao zhu sui pian	1
+女王蜂	nv wang feng	1
+女王薯	nv wang shu	1
+欧巴宾海蝎	ou ba bin hai xie	1
+欧洛浦肯	ou luo pu ken	1
+帕戈尔赞盘丽鱼	pa ge er zan pan li yu	1
+爬骨怪龙	pa gu guai long	1
+帕拉塔安息地	pa la ta an xi di	1
+帕祖祖的羽毛	pa zu zu de yu mao	1
+派拉斯特暴龙	pai la si te bao long	1
+判官神像	pan guan shen xiang	1
+胖陆行鸟巧克力	pang lu xing niao qiao ke li	1
+泡碱	pao jian	1
+喷风中的幸存者	pen feng zhong de xing cun zhe	1
+硼砂	peng sha	1
+彭忒西勒亚的火种	peng tei xi le ya di huo zhong	1
+皮革蜡油	pi ge la you	1
+枇杷	pi pa	1
+枇杷果饮	pi pa guo yin	1
+皮皮拉皮拉鱼	pi pi la pi la yu	1
+披雪大冰壁	pi xue da bing bi	1
+偏光玻璃板	pian guang bo li ban	1
+犏牛肩肉	pian niu jian rou	1
+犏牛角	pian niu jiao	1
+犏牛里脊肉	pian niu li ji rou	1
+犏牛肉排	pian niu rou pai	1
+漂浮诱饵蛙	piao fu you er wa	1
+漂浮诱饵鱼	piao fu you er yu	1
+苹果醋	ping guo cu	1
+苹果芙纽多	ping guo fu niu duo	1
+苹果卷	ping guo juan	1
+苹果绿	ping guo lv	1
+苹果挞	ping guo ta	1
+苹果汁	ping guo zhi	1
+平纹布	ping wen bu	1
+破坏神之杖	po huai shen zhi zhang	1
+破云飞鱼	po yun fei yu	1
+葡萄干	pu tao gan	1
+葡萄酒煎豹肉	pu tao jiu jian bao rou	1
+葡萄汁	pu tao zhi	1
+葡萄紫	pu tao zi	1
+七彩沟	qi cai gou	1
+七彩溪谷	qi cai xi gu	1
+鳍龙	qi long	1
+奇美纤维	qi mei xian wei	1
+奇美鬃毛	qi mei zong mao	1
+栖木饼干	qi mu bing gan	1
+桤木泉	qi mu quan	1
+气球蛙	qi qiu wa	1
+骑士	qi shi	1
+骑士面包	qi shi mian bao	1
+奇洼	qi wa	1
+奇蜥革	qi xi ge	1
+奇虾	qi xia	1
+企业	qi ye	1
+漆油	qi you	1
+千层长颈驼炖野菜	qian ceng chang jing tuo dun ye cai	1
+千层长颈驼焗野菜	qian ceng chang jing tuo ju ye cai	1
+铅丹	qian dan	1
+千竿口花希达	qian gan kou hua xi da	1
+千年殇	qian nian shang	1
+千鳍	qian qi	1
+千眼凝胶	qian yan ning jiao	1
+千狱幼苗	qian yu you miao	1
+千种钢	qian zhong gang	1
+枪鼻头	qiang bi tou	1
+强风	qiang feng	1
+强化玻璃板	qiang hua bo li ban	1
+强化骏鹰革细绳	qiang hua jun ying ge xi sheng	1
+强化玄钢丝	qiang hua xuan gang si	1
+强化云杉合板	qiang hua yun shan he ban	1
+强火性岩	qiang huo xing yan	1
+腔棘鱼	qiang ji yu	1
+强精炼药	qiang jing lian yao	1
+强雷性岩	qiang lei xing yan	1
+强灵性岩	qiang ling xing yan	1
+枪刃	qiang ren	1
+蔷薇辉石	qiang wei hui shi	1
+蔷薇辉石原石	qiang wei hui shi yuan shi	1
+强心剂	qiang xin ji	1
+乔尔艾恩石环	qiao er ai en shi huan	1
+巧克力	qiao ke li	1
+巧克力球	qiao ke li qiu	1
+巧克力珠	qiao ke li zhu	1
+巧力之灵药	qiao li zhi ling yao	1
+巧力之龙药	qiao li zhi long yao	1
+巧力之秘药	qiao li zhi mi yao	1
+巧力之妙药	qiao li zhi miao yao	1
+巧力之强化仙药	qiao li zhi qiang hua xian yao	1
+巧力之仙药	qiao li zhi xian yao	1
+巧力之药	qiao li zhi yao	1
+巧力之药汤	qiao li zhi yao tang	1
+荞麦茶	qiao mai cha	1
+荞麦果实	qiao mai guo shi	1
+荞麦糊	qiao mai hu	1
+巧手红票	qiao shou hong piao	1
+巧手黄票	qiao shou huang piao	1
+切石	qie shi	1
+切削油	qie xiao you	1
+亲吻鱼	qin wen yu	1
+清澈池	qing che chi	1
+清滴糖	qing di tang	1
+清炖盗龙肉	qing dun dao long rou	1
+清炖鬼鮟鱇	qing dun gui an kang	1
+清炖羚羊肉	qing dun ling yang rou	1
+清炖牛肉	qing dun niu rou	1
+清炖羊肉	qing dun yang rou	1
+轻钢板	qing gang ban	1
+青鳉	qing jiang	1
+晴朗	qing lang	1
+青磷蓝	qing lin lan	1
+青磷泉	qing lin quan	1
+青龙之鳞	qing long zhi lin	1
+青麻布	qing ma bu	1
+青麻线	qing ma xian	1
+青盲头蟹腿	qing mang tou xie tui	1
+青魔	qing mo	1
+轻木废材	qing mu fei cai	1
+轻木木材	qing mu mu cai	1
+青柠绿	qing ning lv	1
+清漆	qing qi	1
+轻声谷	qing sheng gu	1
+青铜板	qing tong ban	1
+青铜锭	qing tong ding	1
+青铜环	qing tong huan	1
+青铜铆钉	qing tong mao ding	1
+轻型强心剂	qing xing qiang xin ji	1
+倾仰鲶鱼	qing yang nian yu	1
+清银锭	qing yin ding	1
+清银矿	qing yin kuang	1
+清蒸赤点石斑鱼	qing zheng chi dian shi ban yu	1
+清蒸风神鱼	qing zheng feng shen yu	1
+青紫石英	qing zi shi ying	1
+秋瓜湖畔	qiu gua hu pan	1
+球蓟	qiu ji	1
+求雪鱼	qiu xue yu	1
+求雨鱼	qiu yu yu	1
+全能机甲	quan neng ji jia	1
+群居蠕虫	qun ju ru chong	1
+群青色的矿石	qun qing se de kuang shi	1
+群云布	qun yun bu	1
+群云棉	qun yun mian	1
+热浪	re lang	1
+热破	re po	1
+热巧克力	re qiao ke li	1
+忍斗鱼	ren dou yu	1
+人面鲤	ren mian li	1
+人王像	ren wang xiang	1
+人王遗迹	ren wang yi ji	1
+人造磨刀石	ren zao mo dao shi	1
+忍者	ren zhe	1
+日长石	ri chang shi	1
+日出甘蓝	ri chu gan lan	1
+日轮	ri lun	1
+日落橙	ri luo cheng	1
+日影黄	ri ying huang	1
+溶洞咸淡水	rong dong xian dan shui	1
+熔骨炎蝎	rong gu yan xie	1
+熔岩	rong yan	1
+熔岩蟾蜍	rong yan chan chu	1
+熔岩蟾蜍腿	rong yan chan chu tui	1
+熔岩帝王	rong yan di wang	1
+熔岩蠕虫	rong yan ru chong	1
+熔岩甜菜	rong yan tian cai	1
+熔岩王	rong yan wang	1
+荣耀溪	rong yao xi	1
+蝾螈尾肉	rong yuan wei rou	1
+柔彩粉	rou cai fen	1
+柔彩蓝	rou cai lan	1
+柔彩绿	rou cai lv	1
+柔彩紫	rou cai zi	1
+肉豆蔻	rou dou kou	1
+鞣革	rou ge	1
+柔韧的筋腱	rou ren de jin jian	1
+柔软的粗皮	rou ruan de cu pi	1
+软糊怪肉	ruan hu guai rou	1
+软木棕	ruan mu zong	1
+萨法特	sa fa te	1
+萨菲洛特魔液	sa fei luo te mo ye	1
+萨菲洛特树液	sa fei luo te shu ye	1
+撒沟厉沙海	sa gou li sha hai	1
+撒沟厉沙丘	sa gou li sha qiu	1
+撒沟厉鼠尾草	sa gou li shu wei cao	1
+萨赫蛋糕	sa he dan gao	1
+萨雷安精制区	sa lei an jing zhi qu	1
+萨雷安绝灵油	sa lei an jue ling you	1
+萨雷安睿哲区	sa lei an rui zhe qu	1
+萨雷安治学区	sa lei an zhi xue qu	1
+萨纳兰茶叶	sa na lan cha ye	1
+萨纳兰土壤	sa na lan tu rang	1
+萨努瓦力	sa nu wa li	1
+萨普沙产卵地	sa pu sha chan luan di	1
+萨维奈槲寄生	sa wei nai hu ji sheng	1
+萨维奈绢布	sa wei nai juan bu	1
+萨维奈灵药	sa wei nai ling yao	1
+萨维奈棉布	sa wei nai mian bu	1
+萨维奈明矾	sa wei nai ming fan	1
+萨维奈粘着剂	sa wei nai nian zhuo ji	1
+萨维奈人造树脂	sa wei nai ren zao shu zhi	1
+萨维奈鞣革	sa wei nai rou ge	1
+萨维奈斜纹布	sa wei nai xie wen bu	1
+萨维奈研磨剂	sa wei nai yan mo ji	1
+塞尔法特尔天然水	sai er fa te er tian ran shui	1
+赛黄晶	sai huang jing	1
+赛缇	sai ti	1
+伞蘑	san mo	1
+散寿司	san shou si	1
+伞叶无花果	san ye wu hua guo	1
+扫帚草	sao zhou cao	1
+僧厥茄子镶肉	seng jue qie zi xiang rou	1
+沙蚕	sha can	1
+沙尘暴	sha chen bao	1
+沙地巨虫之牙	sha di ju chong zhi ya	1
+沙海	sha hai	1
+沙海肠虫	sha hai chang chong	1
+沙里贝涅云海蝴蝶螺	sha li bei nie yun hai hu die luo	1
+沙利亚克鳄	sha li ya ke e	1
+沙利亚克河	sha li ya ke he	1
+沙利亚克河上流	sha li ya ke he shang liu	1
+沙利亚克河中流	sha li ya ke he zhong liu	1
+沙漠番红花	sha mo fan hong hua	1
+沙漠黄	sha mo huang	1
+杀生石碎片	sha sheng shi sui pian	1
+杀手库诺	sha shou ku nuo	1
+砂岩磨刀石	sha yan mo dao shi	1
+砂盐滩	sha yan tan	1
+鲨油	sha you	1
+鲨鱼	sha yu	1
+沙蛭	sha zhi	1
+沙钟饼干	sha zhong bing gan	1
+山地鲀	shan di tun	1
+珊瑚粉	shan hu fen	1
+珊瑚海马	shan hu hai ma	1
+山栗	shan li	1
+山栗棕	shan li zong	1
+山毛榉木材	shan mao ju mu cai	1
+山毛榉树枝	shan mao ju shu zhi	1
+山神印	shan shen yin	1
+山鼠的粗皮	shan shu de cu pi	1
+闪烁锭	shan shuo ding	1
+闪烁块	shan shuo kuai	1
+闪锌矿	shan xin kuang	1
+山彦草药	shan yan cao yao	1
+山羊的粗皮	shan yang de cu pi	1
+山羊革	shan yang ge	1
+山羊肩肉	shan yang jian rou	1
+山羊角	shan yang jiao	1
+山羊奶	shan yang nai	1
+山羊绒	shan yang rong	1
+山羊肉排	shan yang rou pai	1
+山羊棕	shan yang zong	1
+闪耀金	shan yao jin	1
+闪耀银	shan yao yin	1
+山芋	shan yu	1
+山芋泥荞麦面	shan yu ni qiao mai mian	1
+山珍番茄面	shan zhen fan qie mian	1
+上级恢复药	shang ji hui fu yao	1
+上级以太药	shang ji yi tai yao	1
+烧结砖	shao jie zhuan	1
+蛇仆蚂蜓	she pu ma ting	1
+神典石	shen dian shi	1
+深绯石英	shen fei shi ying	1
+深红附魔墨水	shen hong fu mo mo shui	1
+深红高位附魔墨水	shen hong gao wei fu mo mo shui	1
+深红晶簇	shen hong jing cu	1
+深红水晶	shen hong shui jing	1
+神话	shen hua	1
+深蓝晶簇	shen lan jing cu	1
+深蓝水晶	shen lan shui jing	1
+深林绿	shen lin lv	1
+神龙之鳞	shen long zhi lin	1
+深绿晶簇	shen lv jing cu	1
+深绿水晶	shen lv shui jing	1
+审美眼	shen mei yan	1
+神秘粉末	shen mi fen mo	1
+神秘结晶	shen mi jie jing	1
+神秘野草	shen mi ye cao	1
+神穆尔鸟	shen mu er niao	1
+审判鳐	shen pan yao	1
+神拳痕	shen quan hen	1
+深色的矿石	shen se de kuang shi	1
+深色晶簇	shen se jing cu	1
+深色水晶	shen se shui jing	1
+深瞳之泪	shen tong zhi lei	1
+神意之地	shen yi zhi di	1
+神谕苦鱼	shen yu ku yu	1
+深渊蓝	shen yuan lan	1
+深渊灵砂	shen yuan ling sha	1
+慎重甄别	shen zhong zhen bie	1
+圣典	sheng dian	1
+圣菲内雅连队露营地	sheng fei nei ya lian dui lu ying di	1
+圣虹布	sheng hong bu	1
+生姜	sheng jiang	1
+生姜饼干	sheng jiang bing gan	1
+生姜沙拉	sheng jiang sha la	1
+圣礼拜台	sheng li bai tai	1
+圣灵药	sheng ling yao	1
+圣龙泪	sheng long lei	1
+圣麻布	sheng ma bu	1
+圣母鲤	sheng mu li	1
+圣女希瓦像	sheng nv xi wa xiang	1
+生漆	sheng qi	1
+圣青麻布	sheng qing ma bu	1
+圣人标	sheng ren biao	1
+圣人泪	sheng ren lei	1
+圣人旅道	sheng ren lv dao	1
+圣水	sheng shui	1
+生态园	sheng tai yuan	1
+生态园管理局	sheng tai yuan guan li ju	1
+圣蜥蜴的粗皮	sheng xi yi de cu pi	1
+圣蜥蜴革	sheng xi yi ge	1
+盛夏滩沿岸	sheng xia tan yan an	1
+生鲜牡蛎	sheng xian mu li	1
+圣雪松材	sheng xue song cai	1
+生者秘药	sheng zhe mi yao	1
+圣鳟贞德	sheng zun zhen de	1
+石板灰	shi ban hui	1
+食冰水母	shi bing shui mu	1
+石蚕	shi can	1
+石场	shi chang	1
+食虫植物幼苗	shi chong zhi wu you miao	1
+十二神大圣堂	shi er shen da sheng tang	1
+石粉粘土	shi fen nian tu	1
+拾荒鮟鱇	shi huang an kang	1
+石灰硫磺合剂	shi hui liu huang he ji	1
+时间轴	shi jian zhou	1
+什锦寿司卷	shi jin shou si juan	1
+狮鹫的粗皮	shi jiu de cu pi	1
+狮鹫革	shi jiu ge	1
+狮鹫革细绳	shi jiu ge xi sheng	1
+狮鹫钩爪	shi jiu gou zhao	1
+试炼群岛	shi lian qun dao	1
+石榴石	shi liu shi	1
+石绿湖	shi lv hu	1
+石绿湖东北岸	shi lv hu dong bei an	1
+石绿湖浅滩	shi lv hu qian tan	1
+失明毒药	shi ming du yao	1
+失明剧毒药	shi ming ju du yao	1
+失明猛毒药	shi ming meng du yao	1
+柿木木材	shi mu mu cai	1
+石楠瀑布	shi nan pu bu	1
+柿漆	shi qi	1
+石青	shi qing	1
+石青原石	shi qing yuan shi	1
+诗人	shi ren	1
+食人魔南瓜	shi ren mo nan gua	1
+石蜥蜴的初蛋	shi xi yi de chu dan	1
+石蜥蜴的粗皮	shi xi yi de cu pi	1
+石蜥蜴革	shi xi yi ge	1
+诗学	shi xue	1
+食盐	shi yan	1
+柿叶寿司	shi ye shou si	1
+石蝇幼虫	shi ying you chong	1
+柿子	shi zi	1
+柿子布丁	shi zi bu ding	1
+石子汤	shi zi tang	1
+狮子鱼油	shi zi yu you	1
+收藏品	shou cang pin	1
+守炬埠头	shou ju bu tou	1
+狩猎	shou lie	1
+守望者	shou wang zhe	1
+兽脂	shou zhi	1
+受祝箭羽	shou zhu jian yu	1
+枢机鱼	shu ji yu	1
+树精的树汁	shu jing de shu zhi	1
+树皮棕	shu pi zong	1
+疏水棉布	shu shui mian bu	1
+鼠尾草	shu wei cao	1
+书信之家	shu xin zhi jia	1
+树汁结晶	shu zhi jie jing	1
+树汁块	shu zhi kuai	1
+赎罪之腕	shu zui zhi wan	1
+双蛇	shuang she	1
+双蛇党	shuang she dang	1
+双型齿翼龙	shuang xing chi yi long	1
+双子池	shuang zi chi	1
+双足飞龙的翼膜	shuang zu fei long de yi mo	1
+双足飞龙之王	shuang zu fei long zhi wang	1
+水淙石	shui cong shi	1
+水光砾	shui guang li	1
+水光石	shui guang shi	1
+水晶板	shui jing ban	1
+水晶刺鱼	shui jing ci yu	1
+水晶飞鸽	shui jing fei ge	1
+水晶龙之鳞	shui jing long zhi lin	1
+水晶砂	shui jing sha	1
+睡莲花苗	shui lian hua miao	1
+睡眠毒药	shui mian du yao	1
+睡眠剧毒药	shui mian ju du yao	1
+睡眠猛毒药	shui mian meng du yao	1
+水墨鱼	shui mo yu	1
+水母的刺丝囊	shui mu de ci si nang	1
+水母伞帽	shui mu san mao	1
+水母油	shui mu you	1
+水鸟之羽	shui niao zhi yu	1
+水牛的粗皮	shui niu de cu pi	1
+水牛豆	shui niu dou	1
+水牛革	shui niu ge	1
+水牛角	shui niu jiao	1
+水牛里脊	shui niu li ji	1
+水牛奶	shui niu nai	1
+水瓶王	shui ping wang	1
+水砂砾	shui sha li	1
+睡石矿场	shui shi kuang chang	1
+水蜥肉排	shui xi rou pai	1
+水蜥尾肉	shui xi wei rou	1
+水眼石	shui yan shi	1
+水银	shui yin	1
+水之晶簇	shui zhi jing cu	1
+水蛭王	shui zhi wang	1
+水煮蛋	shui zhu dan	1
+水煮鲷鱼	shui zhu diao yu	1
+水煮蝲蛄	shui zhu la gu	1
+硕姆	shuo mu	1
+丝柏原木	si bai yuan mu	1
+四臂广场	si bi guang chang	1
+缌布	si bu	1
+四分石地	si fen shi di	1
+死灰复燃的阿尔宾	si hui fu ran de a er bin	1
+斯库尔的牙	si ku er de ya	1
+斯奎克	si kui ke	1
+丝绵	si mian	1
+斯奇塔利斯	si qi ta li si	1
+斯特拉斯	si te la si	1
+私语羊毛	si yu yang mao	1
+松节油	song jie you	1
+松木板材	song mu ban cai	1
+松木木材	song mu mu cai	1
+松鼠的粗皮	song shu de cu pi	1
+松树枝	song shu zhi	1
+速干密封剂	su gan mi feng ji	1
+速疾鬼鳄	su ji gui e	1
+苏醒药	su xing yao	1
+素雪白	su xue bai	1
+蒜炒草菇	suan chao cao gu	1
+酸模避风港	suan mo bi feng gang	1
+酸泡菜	suan pao cai	1
+燧石	sui shi	1
+损血毒药	sun xue du yao	1
+损血剧毒药	sun xue ju du yao	1
+损血猛毒药	sun xue meng du yao	1
+莎草	suo cao	1
+索姆阿尔栗子蛋糕	suo mu a er li zi dan gao	1
+索姆阿尔云帽	suo mu a er yun mao	1
+梭子鰆	suo zi chun	1
+塔赫托特尔湖	ta he tuo te er hu	1
+塔塔诺拉	ta ta nuo la	1
+台地红	tai di hong	1
+钛合金锭	tai he jin ding	1
+钛合金方板	tai he jin fang ban	1
+钛合金镜	tai he jin jing	1
+苔角	tai jiao	1
+泰坦魔岩	tai tan mo yan	1
+泰坦之岩	tai tan zhi yan	1
+苔藓绿	tai xian lv	1
+太阳帆	tai yang fan	1
+太阳海岸	tai yang hai an	1
+太阳湖	tai yang hu	1
+太阳棉	tai yang mian	1
+太阳柠檬	tai yang ning meng	1
+太阳神草莓	tai yang shen cao mei	1
+太阳神草原	tai yang shen cao yuan	1
+太阳神泉水	tai yang shen quan shui	1
+太阳神杖	tai yang shen zhang	1
+碳化暗物质	tan hua an wu zhi	1
+碳化钛	tan hua tai	1
+碳纤维	tan xian wei	1
+糖沼鯥	tang zhao lu	1
+糖煮水果果冻	tang zhu shui guo guo dong	1
+萄干棕	tao gan zong	1
+桃树枝	tao shu zhi	1
+特级恢复药	te ji hui fu yao	1
+特级以太药	te ji yi tai yao	1
+特拉玛豹鱼	te la ma bao yu	1
+特制黑暗红	te zhi hei an hong	1
+特制黑暗蓝	te zhi hei an lan	1
+特制黑暗绿	te zhi hei an lv	1
+特制黑暗紫	te zhi hei an zi	1
+特制黑暗棕	te zhi hei an zong	1
+特制金属橙	te zhi jin shu cheng	1
+特制金属靛	te zhi jin shu dian	1
+特制金属红	te zhi jin shu hong	1
+特制金属黄	te zhi jin shu huang	1
+特制金属蓝	te zhi jin shu lan	1
+特制金属绿	te zhi jin shu lv	1
+特制金属紫	te zhi jin shu zi	1
+特制煤玉黑	te zhi mei yu hei	1
+特制柔彩粉	te zhi rou cai fen	1
+特制柔彩蓝	te zhi rou cai lan	1
+特制柔彩绿	te zhi rou cai lv	1
+特制柔彩紫	te zhi rou cai zi	1
+特制闪耀金	te zhi shan yao jin	1
+特制闪耀银	te zhi shan yao yin	1
+特制无瑕白	te zhi wu xia bai	1
+藤材	teng cai	1
+提克斯塔	ti ke si ta	1
+提蒙河	ti meng he	1
+提诺尔卡茶叶	ti nuo er ka cha ye	1
+甜扁桃	tian bian tao	1
+甜菜	tian cai	1
+甜菜糖	tian cai tang	1
+天蚕绢布	tian can juan bu	1
+天蚕丝	tian can si	1
+天虫	tian chong	1
+天鹅之羽	tian e zhi yu	1
+天妇罗拼盘	tian fu luo pin pan	1
+甜茴香	tian hui xiang	1
+天玑巨熊	tian ji ju xiong	1
+天空蓝	tian kong lan	1
+天空珊瑚	tian kong shan hu	1
+甜年糕	tian nian gao	1
+甜牛奶	tian niu nai	1
+天女鲤	tian nv li	1
+天女鱼	tian nv yu	1
+天青石	tian qing shi	1
+天然粘土	tian ran nian tu	1
+天然树脂	tian ran shu zhi	1
+天然珍珠	tian ran zhen zhu	1
+天上蓝	tian shang lan	1
+填鸭胸肉	tian ya xiong rou	1
+田园番茄面	tian yuan fan qie mian	1
+田园郡	tian yuan jun	1
+天之秘药	tian zhi mi yao	1
+天之黏土	tian zhi nian tu	1
+天之松材	tian zhi song cai	1
+条纹丘	tiao wen qiu	1
+跳蜥蛋	tiao xi dan	1
+跳蜥的翅膀	tiao xi de chi bang	1
+铁板钩	tie ban gou	1
+铁饼	tie bing	1
+铁刀木	tie dao mu	1
+铁刀木角材	tie dao mu jiao cai	1
+铁刀木木材	tie dao mu mu cai	1
+铁帽橡果	tie mao xiang guo	1
+铁杉村	tie shan cun	1
+铁索	tie suo	1
+铁纹钢	tie wen gang	1
+铁纹矿石	tie wen kuang shi	1
+铁锈红	tie xiu hong	1
+铁锈棕	tie xiu zong	1
+铜粉	tong fen	1
+铜镜	tong jing	1
+同盟徽章	tong meng hui zhang	1
+桶眼鱼	tong yan yu	1
+铜鱼	tong yu	1
+透绿柱石	tou lv zhu shi	1
+透明萤石	tou ming ying shi	1
+土光砾	tu guang li	1
+土光石	tu guang shi	1
+土黄石英	tu huang shi ying	1
+秃鹫之羽	tu jiu zhi yu	1
+土砂砾	tu sha li	1
+兔形派	tu xing pai	1
+凸眼金鱼	tu yan jin yu	1
+土眼石	tu yan shi	1
+秃鹰之羽	tu ying zhi yu	1
+兔蝓的酸液	tu yu de suan ye	1
+土之晶簇	tu zhi jing cu	1
+土之水晶	tu zhi shui jing	1
+土蜘蛛	tu zhi zhu	1
+土著丝绳	tu zhu si sheng	1
+湍流三角地	tuan liu san jiao di	1
+吞冰水母	tun bing shui mu	1
+吞钩苦鱼	tun gou ku yu	1
+吞雷鱼	tun lei yu	1
+驼毛	tuo mao	1
+瓦努头	wa nu tou	1
+瓦努族	wa nu zu	1
+瓦片	wa pian	1
+外科医生	wai ke yi sheng	1
+万年松	wan nian song	1
+万事通鲈	wan shi tong lu	1
+完熟橄榄油	wan shu gan lan you	1
+万物	wan wu	1
+惋惜之晶遗迹	wan xi zhi jing yi ji	1
+弯枝	wan zhi	1
+王冠蛋糕	wang guan dan gao	1
+王家猎场	wang jia lie chang	1
+王室鲑鱼排	wang shi gui yu pai	1
+味噌	wei ceng	1
+味噌田乐	wei ceng tian le	1
+维德弗尼尔	wei de fu ni er	1
+威尔特甘斯	wei er te gan si	1
+微风	wei feng	1
+微光灵砂	wei guang ling sha	1
+维护	wei hu	1
+味淋酒	wei lin jiu	1
+威罗迪纳鲑鱼	wei luo di na gui yu	1
+威罗迪纳河	wei luo di na he	1
+尾宿蛛蝎	wei su zhu xie	1
+卫月红	wei yue hong	1
+卫月坚果	wei yue jian guo	1
+卫月新薯	wei yue xin shu	1
+未知采集点	wei zhi cai ji dian	1
+温杜属本杜集落	wen du shu ben du ji luo	1
+温泉王	wen quan wang	1
+嗡嗡石蝇	weng weng shi ying	1
+沃迦加	wo jia jia	1
+沃土棕	wo tu zong	1
+沃仙曦染	wo xian xi ran	1
+无齿翼龙	wu chi yi long	1
+无敌	wu di	1
+无敌改	wu di gai	1
+无二草鱼	wu er cao yu	1
+乌尔达哈	wu er da ha	1
+乌尔达哈来生回廊	wu er da ha lai sheng hui lang	1
+乌尔达哈现世回廊	wu er da ha xian shi hui lang	1
+兀尔德恩惠地	wu er de en hui di	1
+乌尔伽鲁	wu er jia lu	1
+无二江东	wu er jiang dong	1
+无二江西	wu er jiang xi	1
+钨钢锭	wu gang ding	1
+钨钢方板	wu gang fang ban	1
+无垢干谷	wu gou gan gu	1
+无光层巨骨舌鱼	wu guang ceng ju gu she yu	1
+五海杂烩汤	wu hai za hui tang	1
+乌黑石英	wu hei shi ying	1
+钨华	wu hua	1
+无花果奶冻	wu hua guo nai dong	1
+雾绢	wu juan	1
+巫刻猎鹫	wu ke lie jiu	1
+乌克提希	wu ke ti xi	1
+无赖川	wu lai chuan	1
+无赖王	wu lai wang	1
+污流上游	wu liu shang you	1
+污流下游	wu liu xia you	1
+兀鲁忽乃朝鲁	wu lu hu nai chao lu	1
+乌仑代硬木木材	wu lun dai ying mu mu cai	1
+乌仑代硬木原木	wu lun dai ying mu yuan mu	1
+巫茄	wu qie	1
+武僧	wu seng	1
+武士	wu shi	1
+无属性水晶	wu shu xing shui jing	1
+钨铁矿	wu tie kuang	1
+无望流民街	wu wang liu min jie	1
+无味兽脂	wu wei shou zhi	1
+无瑕白	wu xia bai	1
+无限城	wu xian cheng	1
+乌鸦拟饵	wu ya ni er	1
+午夜蓝	wu ye lan	1
+舞者	wu zhe	1
+乌兹刀背鱼天极	wu zi dao bei yu tian ji	1
+乌兹锭	wu zi ding	1
+乌兹矿	wu zi kuang	1
+希尔德拉	xi er de la	1
+希尔科斯水晶碎片	xi er ke si shui jing sui pian	1
+西方水泉	xi fang shui quan	1
+西风岬	xi feng jia	1
+西葫芦	xi hu lu	1
+犀甲虫甲壳	xi jia chong jia qiao	1
+洗浸软质奶酪	xi jin ruan zhi nai lao	1
+西拉诺西亚	xi la nuo xi ya	1
+稀硫酸	xi liu suan	1
+西萨纳兰	xi sa na lan	1
+西水弓鳍鱼	xi shui gong qi yu	1
+西斯尤	xi si you	1
+希瓦魔泪	xi wa mo lei	1
+希瓦之泪	xi wa zhi lei	1
+吸血鞭	xi xue bian	1
+吸血魔毯	xi xue mo tan	1
+吸血枝	xi xue zhi	1
+蜥蜴的尾巴	xi yi de wei ba	1
+蜥蜴人	xi yi ren	1
+西永恒川	xi yong heng chuan	1
+夕月天女	xi yue tian nv	1
+下沉诱饵鱼	xia chen you er yu	1
+虾虎丸子	xia hu wan zi	1
+下游鱼	xia you yu	1
+鲜贝羹	xian bei geng	1
+馅饼坯	xian bing pi	1
+显贵鼠尾草	xian gui shu wei cao	1
+鲜红罗兰莓	xian hong luo lan mei	1
+鲜红罗兰莓派	xian hong luo lan mei pai	1
+仙后鲈	xian hou lu	1
+陷阱草的叶子	xian jing cao de ye zi	1
+陷阱草沙拉	xian jing cao sha la	1
+仙女苹果	xian nv ping guo	1
+仙人掌	xian ren zhang	1
+仙人掌的针	xian ren zhang de zhen	1
+仙人掌叶	xian ren zhang ye	1
+限时采集地点	xian shi cai ji di dian	1
+鲜汤宝	xian tang bao	1
+纤维布	xian wei bu	1
+纤维衬料	xian wei chen liao	1
+鲜血滨	xian xue bin	1
+鲜血橙	xian xue cheng	1
+鲜血红	xian xue hong	1
+鲜血跳鱼	xian xue tiao yu	1
+仙子梅	xian zi mei	1
+香草茶	xiang cao cha	1
+香草豆	xiang cao dou	1
+香菇	xiang gu	1
+橡果饼干	xiang guo bing gan	1
+橡果棕	xiang guo zong	1
+香烩时蔬	xiang hui shi shu	1
+橡胶	xiang jiao	1
+橡胶带	xiang jiao dai	1
+香烤湖胆	xiang kao hu dan	1
+香烤填鸭	xiang kao tian ya	1
+象魔修罗	xiang mo xiu luo	1
+橡木板材	xiang mu ban cai	1
+橡木木材	xiang mu mu cai	1
+橡树原	xiang shu yuan	1
+香味浓郁的野草	xiang wei nong yu de ye cao	1
+香鱼	xiang yu	1
+小包心菜	xiao bao xin cai	1
+小包心菜种子	xiao bao xin cai zhong zi	1
+小扁豆	xiao bian dou	1
+小扁豆煮山栗	xiao bian dou zhu shan li	1
+小雏鸟的营救者	xiao chu niao de ying jiu zhe	1
+小队用复生药	xiao dui yong fu sheng yao	1
+小钝口螈	xiao dun kou yuan	1
+晓光灵砂	xiao guang ling sha	1
+小流星	xiao liu xing	1
+小麦	xiao mai	1
+小麦粉	xiao mai fen	1
+小魔精的翅膀	xiao mo jing de chi bang	1
+小珀琉喀斯	xiao po liu ka si	1
+小撒拉奥斯	xiao sa la ao si	1
+小虾肉笼	xiao xia rou long	1
+小小蔓德拉	xiao xiao man de la	1
+小雪	xiao xue	1
+小雨	xiao yu	1
+小圆饼	xiao yuan bing	1
+谢尔达莱菠菜	xie er da lai bo cai	1
+谢尔达莱嫩菠菜	xie er da lai nen bo cai	1
+邪鬼的翅膀	xie gui de chi bang	1
+邪鬼革	xie gui ge	1
+邪龙之鳞	xie long zhi lin	1
+榍石	xie shi	1
+邪嗣	xie si	1
+卸铁锭	xie tie ding	1
+蟹油	xie you	1
+辛辣蛋	xin la dan	1
+新生魂石	xin sheng hun shi	1
+新薯	xin shu	1
+新薯煎饼	xin shu jian bing	1
+新薯冷汤	xin shu leng tang	1
+新薯泥	xin shu ni	1
+心形卷饼	xin xing juan bing	1
+新植林	xin zhi lin	1
+星八角	xing ba jiao	1
+星材蛋糕	xing cai dan gao	1
+星尘砂糖	xing chen sha tang	1
+星导寺入口	xing dao si ru kou	1
+星光砾	xing guang li	1
+星光石	xing guang shi	1
+星光鳟鱼	xing guang zun yu	1
+星红石	xing hong shi	1
+星花	xing hua	1
+星桦木木材	xing hua mu mu cai	1
+星极花	xing ji hua	1
+星极油	xing ji you	1
+星尖石	xing jian shi	1
+星尖石原石	xing jian shi yuan shi	1
+刑具	xing ju	1
+星绢布	xing juan bu	1
+星蓝石	xing lan shi	1
+星棉	xing mian	1
+星绒	xing rong	1
+星砂砾	xing sha li	1
+星性岩	xing xing yan	1
+星眼石	xing yan shi	1
+熊猫蝶尾鱼	xiong mao die wei yu	1
+雄鹰之羽	xiong ying zhi yu	1
+熊脂	xiong zhi	1
+秀尼鱼龙	xiu ni yu long	1
+虚构	xu gou	1
+须鲸	xu jing	1
+虚空蓝	xu kong lan	1
+虚空之眼	xu kong zhi yan	1
+虚无坚果	xu wu jian guo	1
+虚无界风茄	xu wu jie feng qie	1
+虚无矿	xu wu kuang	1
+虚无鲈	xu wu lu	1
+虚无探索者	xu wu tan suo zhe	1
+旋齿鲨	xuan chi sha	1
+旋风云海	xuan feng yun hai	1
+悬浮米诺拟饵	xuan fu mi nuo ni er	1
+玄钢板	xuan gang ban	1
+玄钢锭	xuan gang ding	1
+玄钢钩	xuan gang gou	1
+玄钢环	xuan gang huan	1
+玄钢块	xuan gang kuai	1
+玄钢铆钉	xuan gang mao ding	1
+玄钢丝	xuan gang si	1
+玄铁矿	xuan tie kuang	1
+旋转亮片	xuan zhuan liang pian	1
+雪白石英	xue bai shi ying	1
+雪峰蛋糕	xue feng dan gao	1
+血红龙	xue hong long	1
+血红奇异果	xue hong qi yi guo	1
+血红奇异果挞	xue hong qi yi guo ta	1
+血椒	xue jiao	1
+血卵石	xue luan shi	1
+雪棉	xue mian	1
+血蚯蚓	xue qiu yin	1
+雪人杀手	xue ren sha shou	1
+雪松板材	xue song ban cai	1
+雪松木材	xue song mu cai	1
+雪松原沿岸地	xue song yuan yan an di	1
+血腥玛丽	xue xing ma li	1
+血浴	xue yu	1
+学者	xue zhe	1
+薰衣草	xun yi cao	1
+薰衣草苗圃	xun yi cao miao pu	1
+薰衣草油	xun yi cao you	1
+鸭高汤	ya gao tang	1
+鸭骨	ya gu	1
+亚拉戈高位合成兽革	ya la ge gao wei he cheng shou ge	1
+亚拉戈剑鲨	ya la ge jian sha	1
+亚拉戈魔触媒	ya la ge mo chu mei	1
+亚拉戈鞣革	ya la ge rou ge	1
+亚拉戈树脂	ya la ge shu zhi	1
+亚拉戈蜗牛	ya la ge wo niu	1
+亚拉戈乌兹块	ya la ge wu zi kuai	1
+亚拉戈纤维	ya la ge xian wei	1
+亚历山大装甲板	ya li shan da zhuang jia ban	1
+亚麻布	ya ma bu	1
+亚麻帆布	ya ma fan bu	1
+亚麻线	ya ma xian	1
+亚麻油	ya ma you	1
+雅弥尼	ya mi ni	1
+亚特卡勒河上游	ya te ka le he shang you	1
+亚特可汗	ya te ke han	1
+盐和光	yan he guang	1
+盐湖	yan hu	1
+岩浆虱	yan jiang shi	1
+烟晶	yan jing	1
+盐韭	yan jiu	1
+盐烤公主鳟	yan kao gong zhu zun	1
+盐烤鲤鱼	yan kao li yu	1
+盐烤暖水鳟	yan kao nuan shui zun	1
+盐烤求雨鱼	yan kao qiu yu yu	1
+盐烤石楠嘉鱼	yan kao shi nan jia yu	1
+盐烤香鱼	yan kao xiang yu	1
+延龄草的球根	yan ling cao de qiu gen	1
+延龄花	yan ling hua	1
+盐卤	yan lu	1
+盐磨鲨	yan mo sha	1
+炎热的天气	yan re de tian qi	1
+烟肉	yan rou	1
+烟肉蛋酱拌面	yan rou dan jiang ban mian	1
+烟肉麦穗面包	yan rou mai sui mian bao	1
+烟肉汤	yan rou tang	1
+岩石奶酪	yan shi nai lao	1
+岩石鱼	yan shi yu	1
+鼹鼠肉	yan shu rou	1
+鼹鼠肉糕	yan shu rou gao	1
+鼹鼠棕	yan shu zong	1
+盐酸	yan suan	1
+岩铁	yan tie	1
+延夏	yan xia	1
+延夏马鞭草	yan xia ma bian cao	1
+延夏棉	yan xia mian	1
+延夏沃土	yan xia wo tu	1
+岩盐咸鱼	yan yan xian yu	1
+眼药	yan yao	1
+盐渍鳕鱼	yan zi xue yu	1
+羊后腰肉	yang hou yao rou	1
+羊毛线	yang mao xian	1
+羊毛脂	yang mao zhi	1
+羊奶麦粥	yang nai mai zhou	1
+羊绒布	yang rong bu	1
+扬沙	yang sha	1
+妖红花的叶子	yao hong hua de ye zi	1
+妖祸克拉肯	yao huo ke la ken	1
+妖祸鱼	yao huo yu	1
+妖精绢布	yao jing juan bu	1
+妖精领溪谷	yao jing ling xi gu	1
+妖精绿	yao jing lv	1
+妖精翼龙	yao jing yi long	1
+妖精暂留地	yao jing zan liu di	1
+摇蚊	yao wen	1
+妖雾	yao wu	1
+妖异之血	yao yi zhi xue	1
+夜钢锭	ye gang ding	1
+夜光灵砂	ye guang ling sha	1
+野马	ye ma	1
+叶脉水系	ye mai shui xi	1
+野牛奶	ye niu nai	1
+叶片钓钩	ye pian diao gou	1
+野生新薯	ye sheng xin shu	1
+夜铁矿	ye tie kuang	1
+野香蕉的苗	ye xiang jiao de miao	1
+页岩棕	ye yan zong	1
+野洋葱	ye yang cong	1
+野猪的粗皮	ye zhu de cu pi	1
+野猪革	ye zhu ge	1
+伊弗利特魔角	yi fu li te mo jiao	1
+伊弗利特之角	yi fu li te zhi jiao	1
+一家之母	yi jia zhi mu	1
+翼胶	yi jiao	1
+伊卡洛斯之翼	yi ka luo si zhi yi	1
+意力之灵药	yi li zhi ling yao	1
+意力之龙药	yi li zhi long yao	1
+意力之秘药	yi li zhi mi yao	1
+意力之妙药	yi li zhi miao yao	1
+意力之强化仙药	yi li zhi qiang hua xian yao	1
+意力之仙药	yi li zhi xian yao	1
+意力之药	yi li zhi yao	1
+意力之药汤	yi li zhi yao tang	1
+翼手龙革	yi shou long ge	1
+翼手龙革细绳	yi shou long ge xi sheng	1
+遗孀泪	yi shuang lei	1
+蚁酸	yi suan	1
+以太安定板	yi tai an ding ban	1
+以太虱	yi tai shi	1
+以太药	yi tai yao	1
+以太之眼	yi tai zhi yan	1
+遗忘绿洲	yi wang lv zhou	1
+一文字	yi wen zi	1
+以小钓大	yi xiao diao da	1
+伊修加德	yi xiu jia de	1
+伊修加德大云海	yi xiu jia de da yun hai	1
+伊修加德砥柱层	yi xiu jia de di zhu ceng	1
+伊修加德基础层	yi xiu jia de ji chu ceng	1
+伊修加德奶茶	yi xiu jia de nai cha	1
+伊修加德柠檬	yi xiu jia de ning meng	1
+伊修加德三明治	yi xiu jia de san ming zhi	1
+伊修加德松饼	yi xiu jia de song bing	1
+翼肢鲎	yi zhi hou	1
+银箔	yin bo	1
+隐藏详细列表	yin cang xiang xi lie biao	1
+银粉	yin fen	1
+阴沟毒液	yin gou du ye	1
+银镜鱼	yin jing yu	1
+银君	yin jun	1
+银泪湖北岸	yin lei hu bei an	1
+隐秘港	yin mi gang	1
+隐秘瀑布	yin mi pu bu	1
+隐沙鱼	yin sha yu	1
+银丝织锦	yin si zhi jin	1
+阴阳的皮膜	yin yang de pi mo	1
+阴影蓝	yin ying lan	1
+银鱼	yin yu	1
+蚓螈巨虫	yin yuan ju chong	1
+阴云	yin yun	1
+硬钢锭	ying gang ding	1
+硬钢块	ying gang kuai	1
+硬革	ying ge	1
+婴猴薄荷	ying hou bo he	1
+硬化云杉木材	ying hua yun shan mu cai	1
+硬化樟木木材	ying hua zhang mu mu cai	1
+萤火虫翅鞘	ying huo chong chi qiao	1
+鹰猎人草布	ying lie ren cao bu	1
+硬灵性岩	ying ling xing yan	1
+硬拳石	ying quan shi	1
+萤石	ying shi	1
+萤石透镜	ying shi tou jing	1
+樱桃枝	ying tao zhi	1
+硬头鳟	ying tou zun	1
+影纹狗鱼	ying wen gou yu	1
+鹦鹉螺	ying wu luo	1
+鹰眼砂	ying yan sha	1
+鹰眼石	ying yan shi	1
+硬银锭	ying yin ding	1
+硬银附魔墨水	ying yin fu mo mo shui	1
+硬银块	ying yin kuai	1
+永恒不灭的菲兰德副耀士	yong heng bu mie de fei lan de fu yao shi	1
+永夏岛北	yong xia dao bei	1
+油封牡蛎	you feng mu li	1
+悠久灵砂	you jiu ling sha	1
+优雷卡恢复药	you lei ka hui fu yao	1
+幽灵鱼	you ling yu	1
+油鳗	you man	1
+油墨蓝	you mo lan	1
+柚木板材	you mu ban cai	1
+游牧民风味肉饼	you mu min feng wei rou bing	1
+柚木木材	you mu mu cai	1
+柚木原木	you mu yuan mu	1
+柚木枝	you mu zhi	1
+优昙婆罗花	you tan po luo hua	1
+忧郁紫	you yu zi	1
+油炸鲯鳅块	you zha qi qiu kuai	1
+油炸蟹肉饼	you zha xie rou bing	1
+油炸盐渍鳕鱼丸	you zha yan zi xue yu wan	1
+优质的藤蔓	you zhi de teng wan	1
+釉质坚果	you zhi jian guo	1
+优质率	you zhi lv	1
+优质云杉枝	you zhi yun shan zhi	1
+疣猪的粗皮	you zhu de cu pi	1
+御冰秘药	yu bing mi yao	1
+御冰妙药	yu bing miao yao	1
+御冰药	yu bing yao	1
+鱼翅汤	yu chi tang	1
+玉绸	yu chou	1
+鱼大叔	yu da shu	1
+御风秘药	yu feng mi yao	1
+御风妙药	yu feng miao yao	1
+御风药	yu feng yao	1
+玉钢锭	yu gang ding	1
+鱼糕	yu gao	1
+鱼高汤	yu gao tang	1
+宇格拉姆河	yu ge la mu he	1
+御火秘药	yu huo mi yao	1
+御火妙药	yu huo miao yao	1
+御火药	yu huo yao	1
+鱼胶	yu jiao	1
+鱼雷	yu lei	1
+御雷秘药	yu lei mi yao	1
+御雷妙药	yu lei miao yao	1
+御雷药	yu lei yao	1
+玉米粉	yu mi fen	1
+玉米黄	yu mi huang	1
+玉米面包	yu mi mian bao	1
+榆木板材	yu mu ban cai	1
+榆木木材	yu mu mu cai	1
+羽纱	yu sha	1
+榆树枝	yu shu zhi	1
+御水秘药	yu shui mi yao	1
+御水妙药	yu shui miao yao	1
+御水药	yu shui yao	1
+玉丝	yu si	1
+御土秘药	yu tu mi yao	1
+御土妙药	yu tu miao yao	1
+御土药	yu tu yao	1
+雨燕塔殖民地	yu yan ta zhi min di	1
+羽衣美人	yu yi mei ren	1
+鱼油	yu you	1
+愚者瀑布	yu zhe pu bu	1
+鱼汁	yu zhi	1
+狱之盖近海	yu zhi gai jin hai	1
+怨妇虾	yuan fu xia	1
+圆甲虫翅鞘	yuan jia chong chi qiao	1
+园艺工	yuan yi gong	1
+月长石	yue chang shi	1
+月滴洞	yue di dong	1
+月读绸缎	yue du chou duan	1
+约恩山	yue en shan	1
+月光丝	yue guang si	1
+月桂	yue gui	1
+月神沙漠北端	yue shen sha mo bei duan	1
+月牙湾	yue ya wan	1
+月曜石	yue yao shi	1
+月之幕帘	yue zhi mu lian	1
+云布	yun bu	1
+云冠槲寄生	yun guan hu ji sheng	1
+云冠香草	yun guan xiang cao	1
+云海	yun hai	1
+云海红珊瑚	yun hai hong shan hu	1
+云海橡果	yun hai xiang guo	1
+云海香蕉	yun hai xiang jiao	1
+云海洋葱	yun hai yang cong	1
+云棉	yun mian	1
+云杉板材	yun shan ban cai	1
+云杉合板	yun shan he ban	1
+云杉木材	yun shan mu cai	1
+云杉原木	yun shan yuan mu	1
+云杉枝	yun shan zhi	1
+陨石	yun shi	1
+陨石幸存者	yun shi xing cun zhe	1
+云水塘	yun shui tang	1
+云银锭	yun yin ding	1
+云银矿	yun yin kuang	1
+杂煮	za zhu	1
+灾祸池南	zai huo chi nan	1
+灾祸池西	zai huo chi xi	1
+早霜顶	zao shuang ding	1
+泽梅尔番茄	ze mei er fan qie	1
+泽梅尔番茄种子	ze mei er fan qie zhong zi	1
+泽梅尔家风味焗菜	ze mei er jia feng wei ju cai	1
+扎尔艾拉	zha er ai la	1
+札尼戈	zha ni ge	1
+炸鱼套餐	zha yu tao can	1
+战记	zhan ji	1
+战神钢	zhan shen gang	1
+战神沙	zhan shen sha	1
+战士	zhan shi	1
+占星	zhan xing	1
+樟木古树	zhang mu gu shu	1
+樟木木材	zhang mu mu cai	1
+樟脑	zhang nao	1
+章鱼烧	zhang yu shao	1
+招恶荒岛	zhao e huang dao	1
+召唤	zhao huan	1
+沼鯥	zhao lu	1
+招雨王	zhao yu wang	1
+沼泽绿	zhao ze lv	1
+哲学	zhe xue	1
+哲学骨舌鱼	zhe xue gu she yu	1
+珍藏料酒	zhen cang liao jiu	1
+真光层巨骨舌鱼	zhen guang ceng ju gu she yu	1
+真理	zhen li	1
+真麻	zhen ma	1
+真麻布	zhen ma bu	1
+真狮鹫的粗皮	zhen shi jiu de cu pi	1
+真狮鹫革	zhen shi jiu ge	1
+针鼹鼠的刺	zhen yan shu de ci	1
+珍珠葵	zhen zhu kui	1
+珍珠岩	zhen zhu yan	1
+蒸蛋羹	zheng dan geng	1
+争斗琵琶鱼	zheng dou pi pa yu	1
+蒸馏水	zheng liu shui	1
+雉鸡拟饵	zhi ji ni er	1
+直觉甄别	zhi jue zhen bie	1
+智力之灵药	zhi li zhi ling yao	1
+智力之龙药	zhi li zhi long yao	1
+智力之秘药	zhi li zhi mi yao	1
+智力之妙药	zhi li zhi miao yao	1
+智力之强化仙药	zhi li zhi qiang hua xian yao	1
+智力之仙药	zhi li zhi xian yao	1
+智力之药	zhi li zhi yao	1
+智力之药汤	zhi li zhi yao tang	1
+芝麻饼干	zhi ma bing gan	1
+至日大蒜	zhi ri da suan	1
+芝士焗洋葱汤	zhi shi ju yang cong tang	1
+植物成长剂型	zhi wu cheng zhang ji xing	1
+植物成长剂型浓缩液	zhi wu cheng zhang ji xing nong suo ye	1
+致远帆布	zhi yuan fan bu	1
+执掌峡谷	zhi zhang xia gu	1
+蜘蛛筋腱	zhi zhu jin jian	1
+织蛛绒布	zhi zhu rong bu	1
+织蛛网	zhi zhu wang	1
+终结油灰	zhong jie you hui	1
+终结者	zhong jie zhe	1
+中拉诺西亚	zhong la nuo xi ya	1
+中萨纳兰	zhong sa na lan	1
+重铁板钩	zhong tie ban gou	1
+中原甘蓝	zhong yuan gan lan	1
+中原罗勒草	zhong yuan luo le cao	1
+皱鳃鲨	zhou sai sha	1
+纻布	zhu bu	1
+竹材	zhu cai	1
+蛀虫	zhu chong	1
+祝福巧克力	zhu fu qiao ke li	1
+苎麻	zhu ma	1
+竹皮纸	zhu pi zhi	1
+竹片	zhu pian	1
+朱漆	zhu qi	1
+朱雀的尾部羽毛	zhu que de wei bu yu mao	1
+猪肉酱汤	zhu rou jiang tang	1
+祝圣栗木木材	zhu sheng li mu mu cai	1
+祝圣罗勒草	zhu sheng luo le cao	1
+祝圣水	zhu sheng shui	1
+竹笋	zhu sun	1
+蛛网	zhu wang	1
+煮杂菜	zhu za cai	1
+砖块	zhuan kuai	1
+庄园蜡	zhuang yuan la	1
+庄园清漆	zhuang yuan qing qi	1
+紫菜	zi cai	1
+紫彩鱼	zi cai yu	1
+紫滴糖	zi di tang	1
+紫红瀑布	zi hong pu bu	1
+紫雷水	zi lei shui	1
+自凝岛近海	zi ning dao jin hai	1
+孜然	zi ran	1
+自然金	zi ran jin	1
+紫杉板材	zi shan ban cai	1
+紫杉木材	zi shan mu cai	1
+紫水晶	zi shui jing	1
+紫檀板材	zi tan ban cai	1
+紫檀木材	zi tan mu cai	1
+自卫系统光源	zi wei xi tong guang yuan	1
+自卫系统内构	zi wei xi tong nei gou	1
+自卫系统外壳	zi wei xi tong wai ke	1
+紫圆盾	zi yuan dun	1
+棕菇	zong gu	1
+足迹谷	zu ji gu	1
+祖灵笑	zu ling xiao	1
+祖母绿	zu mu lv	1
+祖母绿原石	zu mu lv yuan shi	1
+钻石	zuan shi	1
+钻石眼	zuan shi yan	1
+钻石原石	zuan shi yuan shi	1
+最后一滴泪	zui hou yi di lei	1
